@@ -3,13 +3,11 @@ layout: default
 title: Wiki Index
 ---
 
-# Wiki Pages Index
+# TBSPedia Pages Index
 
 {% assign all_pages = site.pages | where_exp: "page", "page.title" | sort: 'title' %}
 {% assign main_pages = all_pages | where_exp: "page", "page.url contains '/'" | where_exp: "page", "page.url != '/'" %}
 
-## Quick Stats
-- Total Pages: {{ all_pages.size }}
 - Last Updated: {{ site.time | date: "%Y-%m-%d" }}
 
 ---
@@ -17,7 +15,7 @@ title: Wiki Index
 ## Browse by Namespace
 
 <details open>
-<summary><strong>📄 Main Pages ({{ main_pages.size }})</strong></summary>
+<summary><strong> TBSPedia Index({{ main_pages.size }})</strong></summary>
 <ul>
 {% for page in main_pages %}
   {% assign parts = page.url | split: '/' | size %}
@@ -26,50 +24,6 @@ title: Wiki Index
 <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
     {% endif %}
   {% endunless %}
-{% endfor %}
-</ul>
-</details>
-
-<details>
-<summary><strong>📂 Categories</strong></summary>
-<ul>
-{% for page in all_pages %}
-  {% if page.url contains '/Category/' %}
-<li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
-  {% endif %}
-{% endfor %}
-</ul>
-</details>
-
-<details>
-<summary><strong>🔧 Templates</strong></summary>
-<ul>
-{% for page in all_pages %}
-  {% if page.url contains '/Template/' %}
-<li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
-  {% endif %}
-{% endfor %}
-</ul>
-</details>
-
-<details>
-<summary><strong>👤 User Pages</strong></summary>
-<ul>
-{% for page in all_pages %}
-  {% if page.url contains '/User/' %}
-<li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
-  {% endif %}
-{% endfor %}
-</ul>
-</details>
-
-<details>
-<summary><strong>❓ Help Pages</strong></summary>
-<ul>
-{% for page in all_pages %}
-  {% if page.url contains '/Help/' %}
-<li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
-  {% endif %}
 {% endfor %}
 </ul>
 </details>
@@ -102,39 +56,3 @@ title: Wiki Index
   {% endif %}
 {% endfor %}
 
----
-
-## Search
-
-<input type="text" id="search" placeholder="Search pages..." style="width: 100%; padding: 10px; margin: 10px 0; font-size: 16px;">
-<ul id="results"></ul>
-
-<script>
-document.getElementById('search').addEventListener('input', function(e) {
-  const query = e.target.value.toLowerCase();
-  const pages = [
-    {% for page in all_pages %}
-    { title: "{{ page.title | escape }}", url: "{{ page.url | relative_url }}" },
-    {% endfor %}
-  ];
-  
-  const results = document.getElementById('results');
-  results.innerHTML = '';
-  
-  if (query.length < 2) return;
-  
-  const matches = pages.filter(p => p.title.toLowerCase().includes(query));
-  matches.slice(0, 20).forEach(page => {
-    const li = document.createElement('li');
-    const a = document.createElement('a');
-    a.href = page.url;
-    a.textContent = page.title;
-    li.appendChild(a);
-    results.appendChild(li);
-  });
-  
-  if (matches.length === 0) {
-    results.innerHTML = '<li>No results found</li>';
-  }
-});
-</script>
