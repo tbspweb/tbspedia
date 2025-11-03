@@ -1,14 +1,14 @@
 # Appendix S: Patrol Recruiting
 
-    1. Patrol Recruiting
+# Patrol Recruiting
 Tahoe Backcountry Ski Patrol is in search of eager candidates interested in join the patrol. 
 
-      1. Ski Along With Us
+## Ski Along With Us
 [Patroller rips the powder on the East slope of Castle.](thumb|right|300px|TBSP)(Image:Markrip.jpg.md) The best way to get to know Tahoe Backcountry? Ski Along with us! TBSP invites members of the public interested in joining the patrol to come for a "Ski-Along" day during any regular patrol day.
 
 Ski Along requests are subject to the discretion of the Mountain Manager. We are able to provide Ski Alongs to prospective patrol candidates on most days when we patrol, but request at least 5 days advance notice.
 
-      1. How to arrange for a Ski Along
+## How to arrange for a Ski Along
 Ski Alongs should be requested by filling out the form at [www.tbsp.org/skialong](http://www.tbsp.org/skialong).  Ski Alongs must be requested at least 5 days in advance.
 
   * Guests are required to sign a liability waiver prior to patrolling with TBSP [NSP Event Release Form](http://farwest.org/DocumentLibrary/NSP-FWDEventLiabilityReleaseForm071008.pdf) from the [NSP Document Library](http://farwest.org/?page=DocumentLibrary/index.htm).  Blank copies are also found in the patrol shed. File these in the Patrol Reports binder.
@@ -17,7 +17,7 @@ Ski Alongs should be requested by filling out the form at [www.tbsp.org/skialong
   * No more than two guests may visit with TBSP on any Ski-Along day.
   * NSP members are encouraged to come out for a ski-along
 
-      1. Ski-Along Procedure
+## Ski-Along Procedure
   * Guests will patrol with a regular patrol team (not training, instruction, or “Challenging Terrain”).
   * A guest may not bring or invite any other person (or dog) on patrol with TBSP, the only exception being for avalanche rescue dogs which are owned and have been trained by the guest.
   * On the assigned patrol day, a guest shall meet TBSP at the Patrol Shed at 8:30 AM.
@@ -29,12 +29,12 @@ Ski Alongs should be requested by filling out the form at [www.tbsp.org/skialong
   * Upon return to the TBSP Patrol Shed, all loaned equipment must be returned to TBSP in as good a condition as it was loaned out. Equipment to be returned may include avalanche transceivers, probe poles, ensolite foam pads, shovels, and SNO-PARK permits. Report any lost or damaged equipment immediately to the Patrol Leader.
   * TBSP’s patrolling season is roughly mid-December to mid-April, weekends only.
 
-      1. Required Personal Equipment
+## Required Personal Equipment
 Accompanying a backcountry ski patrol will require 6-10 miles of cross country and 1500-2000' of elevation gain and loss, and your equipment should be capable of doing this. We recommend sturdy downhill skis with AT or telemark bindings, or a split board. We regret that we cannot accomodate NNN or "cross country" skis on patrol.
 
 Please consult the Patrol Manual for a complete listing of required equipment, including required avalanche equipment, that you will be expected to bring: [A: Required Personal Equipment](Appendix)(Appendix A: Required Personal Equipment.md).
 
-    1. Candidate Training
+# Candidate Training
 New members of TBSP pass through a candidate program before becoming members of the patrol. As part of this process, you will be certified in:
   * Outdoor Emergency Care
   * NSP Introduction to Ski Patrol

@@ -1,6 +1,6 @@
 # Appendix J: Helicopter Protocols
 
-    1. Landing Zones
+# Landing Zones
 Multiple helicopters are available for rescues in the Tahoe area. These generally fall into two categories: rescue helicopters and medical evacuation helicopters.
 Rescue helicopters are typically cross-purposed with law enforcement, carry a flight medic, and are capable of short- and long-line rescues. Medical evacuation helicopters carry a Critical Care nurse with a medical control, and typically have greater requirements for landing zones than rescue helicopters.
 
@@ -34,13 +34,13 @@ LZ Coordinator Responsibilities
 • Keep everyone away from the tail rotor
 • Contact pilot after landing to determine any safety issues
 
-    1. General Patient Transfer Procedures
+# General Patient Transfer Procedures
 Usually, a patient will be loaded by the personnel aboard the helicopter, and patrollers will not have to approach the
 helicopter. In such cases, the primary consideration is to have a clearly marked landing site, and to keep the patient a
 sufficient distance from the landing site to assure patient safety and comfort during the landing. Often the helicopter will be able 
 to provide medical supplies, however it is in the patients best interests to be fully packaged and ready for transport before the helicopter arrives.
 
-    1. General Helicopter Safety
+# General Helicopter Safety
 If it becomes necessary for you to approach a "live" helicopter, i.e., one with a moving rotor, you must keep the following rules in mind:
   1. Obey any and all instructions from the pilot
   1. Before approaching a helicopter make sure the pilot has the ship down on the landing area the way he or she wants it, and has eased the power (you will hear a noticeable change in engine pitch);

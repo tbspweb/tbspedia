@@ -1,12 +1,12 @@
 # Appendix T: Emergency Snow Shelters
 
-    1. Emergency Shelters
+# Emergency Shelters
 TBSP Patrollers are expected to have the skill to create and use emergency survival shelters in the snow. These are three snow shelter techniques taught by the patrol.
 
-      1. Megamid
+## Megamid
 Each patrol carries a megamid as part of the group modular patrol kits. These lightweight and highly versatile tents are easy to set up and the correct snow technique for constructing a megamid is taught as part of the mountain travel and rescue course. Megamids can also be used for sheltering patients and for general environmental comfort on snowy days. The downside to the megamid shelter is its lack of thermal insulation. 
 
-      1. Emergency Snow Trench
+## Emergency Snow Trench
 The TBSP emergency snow trench is designed help trap heat in survival situations, and is a single-person snow shelter. A diagram of an emergency shelter can be found in the NSP Mountain Travel and Rescue text on page 36. 
 The TBSP emergency shelter is designed to be a custom fit for your body. You are the stove, so one-size-fitsall doesnt apply. Study the diagram. Plug in the following measurements:
   * Distance A = the length of your skis (or board) less 12 inches
@@ -38,7 +38,7 @@ Tips:
   1. For a warmer shelter, try spreading a layer of light snow over the tarp before you enter the shelter.
   1. Use your shovel handle to keep the air vents clear during your stay.
 
-      1. Other snow shelters
+## Other snow shelters
 TBSP also instructs candidates in the construction of snow caves and other snow shelters. 
 
 {{PatrolManual}}
