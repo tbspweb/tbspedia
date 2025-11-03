@@ -1,58 +1,40 @@
 ---
 layout: default
-title: Wiki Index
+title: TBSPedia - Home
+permalink: /
 ---
 
-# TBSPedia Pages Index
+# Main Page
 
-{% assign all_pages = site.pages | where_exp: "page", "page.title" | sort: 'title' %}
-{% assign main_pages = all_pages | where_exp: "page", "page.url contains '/'" | where_exp: "page", "page.url != '/'" %}
+Welcome to TBSPedia, the online resource for the Tahoe Backcountry Ski Patrol and all users of the Tahoe Backcountry!
 
-- Last Updated: {{ site.time | date: "%Y-%m-%d" }}
+## Tahoe Backcountry Ski Patrol
 
----
+- [About Tahoe Backcountry Ski Patrol](/tbspedia/About_TBSP) - Learn more about the patrol and our activities.
+- [TBSP in the News](/tbspedia/Press_and_Media) - News articles and press clippings about Tahoe Backcountry Ski Patrol.
+- [Patrol Manual](/tbspedia/PatrolManual) - Read up on the policies and protocols of the Tahoe Backcountry Ski Patrol.
 
-## Browse by Namespace
+## Joining the Patrol
 
-<details open>
-<summary><strong> TBSPedia Index({{ main_pages.size }})</strong></summary>
-<ul>
-{% for page in main_pages %}
-  {% assign parts = page.url | split: '/' | size %}
-  {% unless page.url contains '/Category/' or page.url contains '/Template/' or page.url contains '/User/' or page.url contains '/Help/' or page.url contains '/Talk/' %}
-    {% if parts <= 2 or page.url contains '.html' %}
-<li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
-    {% endif %}
-  {% endunless %}
-{% endfor %}
-</ul>
-</details>
+- [Join the Patrol](/tbspedia/TBSP_Introduction) - Introduction to the Tahoe Backcountry Ski Patrol! Instructions for prospective candidates.
+- [Ski-Along](/tbspedia/SkiAlong) - Schedule an on-the-snow introduction to backcountry patrolling.
 
----
+## Training Resources
 
-## Alphabetical Index
+- [Video Training](/tbspedia/Video_Training) - Training Videos for and about TBSP
+- [Avalanche Related Resources](/tbspedia/Avalanche_Related_Resources) - Links for our Avalanche course students.
+- OEC Training Resources
 
-{% assign letters = "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z" | split: "," %}
+## Resources for the Backcountry
 
-{% for letter in letters %}
-  {% assign letter_pages = all_pages | where_exp: "page", "page.title" | sort: 'title' %}
-  {% assign has_pages = false %}
-  {% for page in letter_pages %}
-    {% assign first_char = page.title | slice: 0 | upcase %}
-    {% if first_char == letter %}
-      {% assign has_pages = true %}
-      {% break %}
-    {% endif %}
-  {% endfor %}
-  
-  {% if has_pages %}
-### {{ letter }}
-    {% for page in letter_pages %}
-      {% assign first_char = page.title | slice: 0 | upcase %}
-      {% if first_char == letter %}
-- [{{ page.title }}]({{ page.url | relative_url }})
-      {% endif %}
-    {% endfor %}
-  {% endif %}
-{% endfor %}
+- [Current conditions](/tbspedia/Current_conditions) - Links for up to date weather, traffic and avalanche information.
+- [Miscellaneous](/tbspedia/Miscellaneous) - Links for physical conditioning, tree-well immersion, etc.
+- [Simple GPS route to Peter Grubb Hut](/tbspedia/PGH_Route) - <http://wiki.tbsp.org/PGH_Route>
 
+## Information for Patrollers
+
+- [Search And Rescue](/tbspedia/Search_And_Rescue) - Information and Signup Instructions for the Search and Rescue Team.
+- [Operations - things to fix](/tbspedia/Operations_-_things_to_fix) - Bulletin board for posting items needing attention, or volunteering to fix it!
+- [Senior Program](/tbspedia/Senior_Program) - Information on how and why to become a Senior Patroller in TBSP.
+
+[List all available pages](/tbspedia/list_pages)
