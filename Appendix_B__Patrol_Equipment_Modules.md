@@ -1,7 +1,7 @@
 # Appendix B: Patrol Equipment Modules
 
 
-    1. Patrol Equipment Assignments
+## Patrol Equipment Assignments
 Patrol Equipment Modules should be assigned by predetermined roles for each patroller.
 
   * Patrol Leader (leader, communications)
@@ -32,11 +32,11 @@ Patrol Equipment Modules should be assigned by predetermined roles for each patr
     * Share load from other patrollers
 
 
-    1. Patrol Equipment Modules
+## Patrol Equipment Modules
 The following equipment modules are provided by the patrol.
 Patrollers are required to divide up and carry the following modular units:
 
-        1. FORMS MODULE
+### FORMS MODULE
   * 2 Patrol Reports (formerly Daily Operaations Log)
   * 1 Sno-Mo Closure map for area
   * 4 incident reports
@@ -44,14 +44,14 @@ Patrollers are required to divide up and carry the following modular units:
   * 1 ballpoint pen
   * 1 plastic envelope for contents
 
-        1. RADIO HARNESS CONTENTS
+### RADIO HARNESS CONTENTS
   * Radio Shortcut Card (Icom or Bendix-King)
   * List of cellphone numbers
   * Businsess Cards
   * NSP Avalanche Rescue Quick Guide
   * Plastic ziplock for above if carried in patrol vest
 
-        1. TRAUMA MODULE
+### TRAUMA MODULE
 For treating more serious injuries.
 
   * 1 paramedic shears
@@ -80,17 +80,17 @@ For treating more serious injuries.
   * 2 SAM splints
   * 1 zippered case for contents
 
-        1. AIRWAY MANAGEMENT MODULE
+### AIRWAY MANAGEMENT MODULE
   * 1 set oral airways
   * Nasal or oral airways
   * Suction syringe
   * 1 disposable adult bag-valve mask (BVM)
 
-        1. TENT MODULE (for patient care)
+### TENT MODULE (for patient care)
   * 1 Megamid
   * 1 stuff sack for contents
 
-        1. REPAIR / FIRE / SIGNAL MODULE
+### REPAIR / FIRE / SIGNAL MODULE
 For repairing equipment in the field.
 
   * 1 2 oz. plastic bottle containing:
@@ -118,17 +118,16 @@ For repairing equipment in the field.
     * 1 stuff sack for contents
   * 1 zippered bag for contents
 
-        1. PORTABLE SLED MODULE (for patient transportation)
+### PORTABLE SLED MODULE (for patient transportation)
   * 1 Brooks Range Emergency Sled with stuff sack, which contains:
     *  custom fitting tarp 
     *  two stretcher bars
     *  set of 5 ski straps
 
-      1. PATIENT ACCESS MODULE
+## PATIENT ACCESS MODULE
 Rope for belaying a rescuer to provide first aid to patient in steep terrain. Planned for the 2010-2011 season.
   * 100 ft x 8mm static rope
   * Bag
   * Ascender and hardware under discussion
 
 
-{{PatrolManual}}

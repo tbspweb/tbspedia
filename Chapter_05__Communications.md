@@ -1,6 +1,6 @@
 # Chapter 05: Communications
 
-    1. INTRODUCTION
+# INTRODUCTION
 The radio is the single most important piece of equipment carried by TBSP on patrol. Therefore, every Patrol Leader is
 urged to lead a review of the procedures described in this Article while on patrol. Use of BK and ICOM radios should
 ideally be reviewed with an actual radio present, which is most often the case while on patrol. 
@@ -10,8 +10,8 @@ should carry a cell phone and expect that it will be used as a backup communicat
 poor reception, failed repeater, or other mechanical problems with the radios. Permanent Nordic call signs are issued to all
 active members of the patrol (including candidates) and should be used for all radio communications.
  
-    1. COMMUNICATION PROTOCOLS AND DETAILS
-      1. CALL SIGNS
+# COMMUNICATION PROTOCOLS AND DETAILS
+## CALL SIGNS
 Each patroller is now assigned a permanent Radio Call Sign designation
 which can be found in the Patrol Roster and is posted in the Operations Office. This call sign is 
 distributed to Grass Valley and Minden dispatch, and will be used to contact patrols who do not sign
@@ -28,7 +28,7 @@ The permanent radio designation for Patrol Director is Nordic 1.
 
 It is of utmost importance that patrols are signed into and out of service. If patrols do not sign out of service in a timely fashion, it could result in an unnecessary search and rescue effort being launched.
 
-      1. RADIO ETIQUETTE
+## RADIO ETIQUETTE
 To initiate a radio communication, give the call sign of the person you wish to contact, followed by your call sign. In the
 following example, as the Patrol Leader at Castle Peak, your call sign is "Nordic 10" and you are calling "Nordic 14,"
 another patroller at Castle Peak, on the Tahoe National Forest Local channel.
@@ -56,7 +56,7 @@ another patroller at Castle Peak, on the Tahoe National Forest Local channel.
   1. Enter radio feedback on Daily Ops Log
   1.    Do not attempt to reprogram the radios. That said, to add or remove a channel from scan, turn the channel selector to that channel and press ENT or CLR on the keyboard.
 
-      1. Patroller Tasks
+## Patroller Tasks
 You should be able to perform all the following tasks:
 
   1. Put on Radio Pouch/Harness
@@ -89,7 +89,7 @@ time at the equipment shed. The Motorola radios cannot be used to communicate wi
 radios. They have a limited range (about 2 miles), and operate only in line-of-sight with each other. These radios should
 also be handled carefully, and sheltered from cold weather and moisture.
 
-    1. DAILY PROCEDURE FOR USING RADIOS
+# DAILY PROCEDURE FOR USING RADIOS
 This section summarizes the steps for handling and using the radios and batteries during the typical patrol day. (Time
 and Location is in parenthesis).
   1.     (Before Patrol, at the Equipment Shed) Mountain Manager takes batteries from the bottom of the battery slide (or charger if fully charged), attaches them to radio bodies, performs radio check to verify function, and puts the radios and radio pouches in bins for the Patrol Leader to take to the parking area for that day, marking the Equipment Checklist accordingly.

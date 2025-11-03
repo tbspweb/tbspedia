@@ -2,7 +2,7 @@
 
 
 
-    1. U.S. FOREST SERVICE SUPPORT
+# U.S. FOREST SERVICE SUPPORT
 The TBSP is sponsored by the USFS, and we support them with other activities at their request, such as:  
   * Snowmobile closure sign posting - under the direction of USFS (Materials and equipment provided by USFS)  Snowmobile closure area "enforcement". We report closure violations to dispatch, and by providing visual reports.  
   * Census of users: especially at Tahoe Meadows (as indicated on the Patrol Report)  

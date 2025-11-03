@@ -1,7 +1,7 @@
 # Appendix H: Map and Compass Skills
 
-    1. Map and Compass Guidelines
-      1. Selecting Maps
+# Map and Compass Guidelines
+## Selecting Maps
 TBSP recommends the following maps for patrollers. Basic map characteristics should include:
   * 1:24000 scale
   * Waterproof paper
@@ -11,21 +11,21 @@ TBSP recommends the following maps for patrollers. Basic map characteristics sho
 
 [nifty waterproof maps of our patrol areas, with UTM and Lat/Long grid lines at mytopo.com.](Order)(Maps.md)
 
-      1. Selecting a compass
+## Selecting a compass
 A good compass with declination adjustment, sighting mirror and clinometer (Suunto MC 2G or Silva Ranger Type
 15CL, aka CL515) costs $55-$70. Buy a good one. The following discussion assumes you have followed this advice.
 Consequently, it does not deal with the procedures and calculations required to correct for declination if your compass
 does not have a declination adjustment feature. (If you insist on using a compass without declination adjustment, these
 procedures can be explained in the field, but they are confusing and difficult to remember. Don't say we didn't warn
 you.)
-      1. Declination adjustment
+## Declination adjustment
 The Magnetic North Pole lies to the south of true North Pole, which causes an error in compass readings known as
 declination. The value of declination for a particular area is found on the lower left corner of all USGS maps. For our
 purposes, declination of 17o east is sufficient for all maps. To adjust your compass, simply insert the small key into the
 screw on the bottom of your compass and turn the screw until the mark at the rear of the orienting arrow lines up with
 17o east declination. Now, unlike those who have compasses without declination adjustment, you will never have to
 worry about declination again.
-      1. Map bearings
+## Map bearings
   *        Mark (or note) your position and destination on the map.
   *        Place the long side of the compass base plate on these two points so that the cover is towards your destination.  If necessary, the cover of the compass or a ruler can be used as an extension of the base plate.
   *        Turn the bezel until the meridian lines on the compass capsule are parallel with the meridian lines on the map (or the left or right border of the map) and N on the bezel is on the north side of the capsule with reference to the map.
@@ -35,17 +35,17 @@ To transfer this bearing to the field, simply turn your body until the needle is
 colors match (red with red and black with black). [dark, turn your body until the luminous point on the needle lies
 between the luminous points on either side of the orienting arrow.](After) The sighting line through the mirror indicates your
 direction of travel.
-      1. Orienting (setting) the map
+## Orienting (setting) the map
 To orient your map (only necessary when in the field), follow the same procedure described above, but leave the
 compass on the map and turn the map instead of your body. Once the map is oriented, you can compare field
 topographical features with those depicted on the map.
-      1. Taking field bearings
+## Taking field bearings
   *        open the cover to approximately 60o.
   *       place the lanyard around your neck and raise the compass to eye level while holding it level with both hands, and hold it as far from your body as possible so the lanyard is tight.
   *       close one eye (always close the same eye) and sight through the notch in the cover (mirror), turning your body until the landmark is precisely above the notch, AND the vertical centerline of the mirror appears to intersect the axis of the needle.
   *       while maintaining the above position, look into the mirror and turn the bezel until the needle is within and parallel to the orienting arrow as observed in the mirror.
   *       read the bearing at the index pointer (centered luminous mark near the hinge of the compass).
-      1. Finding your location using two or more landmarks
+## Finding your location using two or more landmarks
   *       Take a bearing on a known landmark as described above.
   *       to transfer this bearing to the map, place the compass on the map and open the cover wide so the long edge of the compass intersects the known landmark.
   *       turn the compass edge around the known landmark until the meridian lines on the capsule are parallel with the meridian lines (or the left or right border) of the map, and the N mark on the bezel is on the north side (on the map) of the capsule.
@@ -53,7 +53,7 @@ topographical features with those depicted on the map.
   *       repeat the process using a second landmark approximately 90o from the first landmark.
   *       your location is the point where the two lines intersect.
   *       for improved accuracy, repeat the procedure using a third landmark.  A line from the third point should intersect at approximately the same point
-      1. Using the clinometer
+## Using the clinometer
 We use the clinometer to measure slope angle, a critical indicator of avalanche propensity, and alpha angles, which
 indicate whether you are in a potential avalanche run out zone:
   *       turn the bezel until it reads 270o at the index pointer.
@@ -61,7 +61,7 @@ indicate whether you are in a potential avalanche run out zone:
   *       open the compass cover to approximately 30o.
   *       steady the compass with both hands and sight along the top edge of the base plate. Looking into the mirror,
           read the angle indicated by the clinometer pointer.
-    1. GRID COORDINATE SYSTEMS
+# GRID COORDINATE SYSTEMS
 Patrollers must know how to determine their location on a USGS or Forest Service map and how to move from one
 location to another using a map and compass. Patrollers also must know how to direct helicopters to a pre-determined
 landing sites, and be able to use a map and compass to reach such sites.
@@ -84,7 +84,7 @@ understanding of this critical subject. It may seem overwhelming at first, but i
 times and do the sample problems you should be able to master all three systems. Instructors will attempt to answer any
 questions you have regarding the written material.
 
-      1. Universal Transverse Mercator (UTM)
+## Universal Transverse Mercator (UTM)
         1. Basis of system
 Distance is measured in meters north and south from the equator and east from a central meridian. 
 
@@ -115,7 +115,7 @@ PRATICE PROBLEM 1: Try determining the UTM location of the triangle marking the 
 located roughly 1 3/4 inches from the bottom margin and 6 1/2 inches from the right margin. See answer 1 on last page
 of this appendix.
 
-      1. Public Land System (Township and Range)
+## Public Land System (Township and Range)
         1. Basis of system
 Figures 2 and 3 of this article describe the Township and Range system used by the Forest Service. Because we
 patrol pursuant to volunteer agreements with the Forest Service and use their radio system, we must know how to
@@ -157,7 +157,7 @@ Townships are numbered north and south of the base line.
   *   A Section can also be subdivided into (16)          40-acre tracts which can be designated by                cardinal directions.                                     
   *   A legal description of this parcel of 40 acres(beginning with the smallest designation first) will read: ýSE 1D4 NE 1D4, Section 36, T. 3 S R. 45 E.ý
                                                                       
-      1. Geographic Coordinates (Latitude and Longitude)
+## Geographic Coordinates (Latitude and Longitude)
         1. Basis of system
 Geographic coordinates use the degree as the basic unit of measurement, with subdivisions into minutes and seconds.
 The origin of this system is off the west coast of Africa, where the Greenwich meridian (0o longitude) intersects the
@@ -309,7 +309,7 @@ for measuring distance labeled ýUSGS 7.5ý MAP SCALEý and one side for Latitud
 
 [OF USE OF LAT/LONG SCALE](thumb|300px|EXAMPLE)(Image:Mapsfig4.png.md)
 
-      1. Position Shorthand
+## Position Shorthand
 Each grid coordinate system is a method for communicating a location, and that location needs to be expressed in a language the receiving party will understand. TBSP has specific guidelines for expressing positions in the coordinate system:
 
   * **LAT-LONG**: All lat-long coordinates should be expressed with the DATUM first, like "NAD27 datum, 37 degrees 43.44 minutes north, 118 degrees 30.2 minutes west". When written, a single hash ' represents minutes and a double hash " represents seconds. 
@@ -317,7 +317,7 @@ Each grid coordinate system is a method for communicating a location, and that l
   * **Township and Range**: Township/range has no shorthand, and is read from most specific-to-least. 
   * **All coordinate systems**: Regardless of the coordinate system, it's always good to specify a couple known landmarks to prevent confusion and to allow the receiving party to double-check the position they are given.
 
-    1. GLOBAL POSITIONING SYSTEM (GPS) USES
+# GLOBAL POSITIONING SYSTEM (GPS) USES
 GPS units can be of great value in locating your current position and for route-finding. However they have their
 advantages and disadvantages, and can only supplement, not replace map and compass skills. You have to understand how it works, including the difference between the multiple coordinate systems and how to translate from one to the other. By convention, TBSP Patrol maps use the NAD 27 CONUS system, however most modern GPS units will default to the newer WGS 84 standard. This alone can result in a position error of several hundred meters.
 
@@ -346,7 +346,7 @@ If one is going to carry a GPS unit, to use it effectively one should master the
   * Changing coordinate systems (for example, from Lat/Long to UTM)
   * Backtracking
 
-    1. PRATICE PROBLEM ANSWERS
+# PRATICE PROBLEM ANSWERS
   1.   "333488 on the 7.5 minute Norden Quadrangle."
   1.   "Southwest 1/4, Southeast 1/4, Section 3, Township 16 North, Range 15 East" or, using the alternative method: "Section 3, Township 16 North, Range 15 East, at a point 2350 feet west of the eastern section boundary and 750 feet north of the southern section boundary, at about 8700 feet elevation."
   1.   "Latitude 39°15'33", longitude 120°17'46" at about 8700 feet elevation." [we always give latitude first, and don't have to express "latitude" and "longitude".](Remember,)

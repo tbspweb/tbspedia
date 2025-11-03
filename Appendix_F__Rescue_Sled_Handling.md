@@ -2,7 +2,7 @@
 
 
 
-    1. Rescue Sleds
+# Rescue Sleds
 TBSP uses three types of rescue sleds:
   1. Commercial rescue sleds, which can carry both equipment and patients. With these sleds we can carry a full range of first-aid equipment, including a backboard;
   1.  Patrol manufactured portable sleds carried by patrollers which weigh 2 - 4 lbs. exclusive of ropes;
@@ -13,7 +13,7 @@ The portable sled can be completely constructed using materials in the Portable 
 improvised sled can be completely constructed using materials in the Repair Module, the patient's skis and poles and two
 detachable shovel handles.
 
-    1. Sled Hauling
+# Sled Hauling
 This section contains diagrams regarding sled handling. The leader should give all commands for
 starting, stopping, slowing, and changing of others' position. The followers should communicate any problems to the
 eleader, including difficulty with the terrain, the need to slow down, or the need to halt the sled if someone falls.
@@ -38,12 +38,12 @@ thoroughly covered during field training.
                              Hand Belay     /                                                   Carabiner Brake
 [450px](Image:Sledfig3.png.md)
 
-    1. LOW-ANGLE ROPE-RESCUE SYSTEMS FOR USE ON SNOW
+# LOW-ANGLE ROPE-RESCUE SYSTEMS FOR USE ON SNOW
 This document discusses the construction of low-angle (15° to 40°) rope-rescue systems used on snow. It is not intended
 to describe either equipment or procedures for low-angle rescue off snow or high-angle rescue. The systems discussed in
 this document have been designed for backcountry use, where equipment weight is a significant consideration.
 
-      1. Rescue Team
+## Rescue Team
 The TBSP rescue team should include three or four patrollers, allocated as follows:
   *              Two main-line tenders (haulers)
   *              One belay-line tender (optional)
@@ -55,7 +55,7 @@ This discussion assumes that each member of the rescue team carries the followin
   *              One descender
   *              Two locking carabiners
 
-      1. Terminology
+## Terminology
 {{missingimages}}
 ; Horizontal 3-to-1 Raising System: a two-anchor point, three-pulley system that permits hauling perpendicular to the fall line; the Z is rigged perpendicular to the fall line
 ; Vertical 3-to-1 Raising System: a single-anchor point, three pulley system that permits hauling perpendicular or parallel to the fall line; the Z is rigged parallel to the fall line
@@ -73,7 +73,7 @@ This discussion assumes that each member of the rescue team carries the followin
 ; Mariner's Knot: the knot used in the load-releasing system 
 ; Lock-Off Carabiner: a carabiner used to lock the free end of the mariner:s knot to the anchor carabiner
 
-      1. TBSP Rope-Rescue Module
+## TBSP Rope-Rescue Module
 The TBSP Rope-Rescue Module contains all equipment required to construct a horizontal or vertical 3:1 raising system
 or a 1:1 lowering system (except belay lines and associated equipment), and also supports reversing the systems:
   *              One 50 m x 8mm static rope
@@ -85,13 +85,13 @@ or a 1:1 lowering system (except belay lines and associated equipment), and also
   *              Two standard pulleys
   *           One prusik-minding pulley and One 5/8 inch stainless steel washer
   *           One brake-bar rack descender
-      1. Anchors
+## Anchors
   1.  Use appropriate anchor points - trees, BFRs, buried skis or snow anchors.
   1.  Attach one yellow anchor webbing and one blue anchor webbing to the first anchor point, and, if using a horizontal 3:1 system, attach the remaining yellow anchor webbing to the second anchor point.
   1.  Ski or snow anchors should be placed with regard to the forces that will be exerted on them
   1.  Buried skis can be used as snow anchors in all but the hardest snow, and are always available. If pickets are used in hard snow they should be rigged in tandem, three being better than two.
 
-      1. Deciding Which Raising System to Use
+## Deciding Which Raising System to Use
 This decision will normally be driven by three factors: (1) the length of the rescue rope, (2) the distance between the
 patient and the first anchor point and (3) the availability of natural anchor points. For purposes of this discussion we will
 assume a rescue rope length of 150 feet.
@@ -99,7 +99,7 @@ assume a rescue rope length of 150 feet.
   1.  If there is a natural anchor point immediately above the patient, a vertical system is preferred (assuming an acceptable vertical distance from patient to anchor point) because it only requires one anchor point and does not have to be reset. However, if you have to resort to a snow anchor point (e.g., buried skis) it is preferable to use a two-anchor horizontal system for reduced anchor strain and redundancy.
   1.  The first anchor point should always be immediately above the patient in the fall line to avoid raising or lowering across the fall line. Therefore, unless you have a tree or other natural anchor immediately above the patient, you should use a two-anchor point horizontal system with buried skis or other snow anchor as the first anchor point.  When employing a horizontal system try to use at least one tree or other natural anchor point.
 
-      1. Belay Lines and Safety Prusiks
+## Belay Lines and Safety Prusiks
 A separate belay line should be used whenever conditions dictate. Such conditions include steep slopes, situations where
 the rescue sled must be carried over rock, and any situation in which main line anchors are considered tenuous. If a main
 line fails, the forces exerted can exceed the restraining ability of the tandem safety prusiks, resulting in total system
@@ -162,7 +162,7 @@ The following table represents an unscientific attempt to gauge the relative deg
 
 
 
-      1. Reversing System from Raising to Lowering
+## Reversing System from Raising to Lowering
   1.  Extend tandem safety prusiks to maximum lengths
   1.  Slowly release tension on haul rope until tandem safety prusiks engage
   1.  Remove all pulleys and haul prusik(s) and store carefully
@@ -180,7 +180,7 @@ Reversing System from Lowering to Raising
   1.  Rig raising system
   1.  Give command 'ready to raise'
 
-      1. Notes on System Failure
+## Notes on System Failure
 When a low-angle rope-rescue system fails it is almost always because of operator error. Common mistakes include:
   * poorly tied anchor (water) knots (check all knots before operating system)
   * poorly tied double-fisherman knots on prusik loops (check all knots before operating system)
@@ -189,12 +189,12 @@ When a low-angle rope-rescue system fails it is almost always because of operato
   * poor belaying technique
   * improper rigging of system
 
-      1. Patient Packaging
+## Patient Packaging
 The patient must be attached to the sled and to the main and belay lines. To accomplish this use an improvised webbing
 seat harness (diaper sling) as described in MT&R, p. 66, Fig. 42a, then tie the harness into the sled and rescue lines with
 the extra webbing or rope. If possible, the patient should also be provided with a helmet.
 
-      1. Communications
+## Communications
 
  class="wikitable"
 
@@ -244,6 +244,6 @@ the extra webbing or rope. If possible, the patient should also be provided with
 
 
 
-  * Belay commands are given (1) if a separate belay line is used in raising mode, (2) during lowering, (3) when locking off to switch direction of system or (4) when resetting in raising mode
+Belay commands are given (1) if a separate belay line is used in raising mode, (2) during lowering, (3) when locking off to switch direction of system or (4) when resetting in raising mode
 
 {{PatrolManual}}
