@@ -1,13 +1,13 @@
 # Current conditions
 
-    1. Avalanche
+# Avalanche
 ;Sierra Avalanche Center - Daily Avalanche Forecast: http://www.sierraavalanchecenter.org/advisory
 ;Eastern Sierra Avalanche Center map:http://www.esavalanche.org/Advisories.htm
 ;Avalanche.org: http://www.Avalanche.org/
 ;AAA SWAG: Snow, Weather, and Avalanches Observational Guidelines; http://americanavalancheassociation.org/pub_swag.php
 ;CSAC:  http://www.avalanche-center.org/
 
-    1. Roads and Traffic
+# Roads and Traffic
 ;Lake Tahoe road conditions: http://www.skialpine.com/mountain/lake-tahoe-road-conditions
 ;NCal realtime traffic: http://www.sigalert.com/Map.asp?region=Sacramento#lat=38.72413&lon=-121.45917&z=3
 ;I80 webcams:http://www.Magnifeye.com
@@ -18,7 +18,7 @@
 ;Caltrans Live Traffic Cams:http://video.dot.ca.gov/
 ;Lassen roads:http://www.nps.gov/lavo/planyourvisit/current_conditions.htm#CP_JUMP_138964
 
-    1. Weather
+# Weather
 ;Mountain Weather Forecast: http://www.mountain-forecast.com/peaks/Castle-Peak-California/forecasts/2000
 
 ;Open Snow discussion: http://opensnow.com/dailysnow/tahoe
@@ -40,7 +40,7 @@ http://www.wpc.ncep.noaa.gov/qpf/day1-7.shtml
 
 ;NOAA Reno AREA FORECAST DISCUSSION: http://www.wrh.noaa.gov/forecasts/display_special_product_versions.php?sid=rev&pil=afd
 
-    1. Snowpack/Weather Historical Measurements
+# Snowpack/Weather Historical Measurements
 ; Wunderground snowpack summary; http://www.wunderground.com/StateSnowDepth.asp?state=CA&MR=1:
 ;Sierra Crest (Squaw Summit 8700') NWS reporting station; http://www.wrh.noaa.gov/rev/remotedata/screst.php:
 ;Observed last 24 hour precipitation;   http://www.cnrfc.noaa.gov/precipMaps.php?group=ns&hour=24&synoptic=0:

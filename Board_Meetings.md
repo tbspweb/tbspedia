@@ -1,6 +1,6 @@
 # Board Meetings
 
-    1. 2010 Board Meeting Calendar
+# 2010 Board Meeting Calendar
   1. September 29, 2009
   1.* Recruiting for Leadership within the Patrol
   1.* Revisions to the Training Program

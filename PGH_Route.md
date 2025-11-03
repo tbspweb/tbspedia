@@ -1,6 +1,6 @@
 # PGH Route
 
-    1. Simple GPS route to Peter Grubb Hut
+# Simple GPS route to Peter Grubb Hut
 [Grubb Hut|Peter Grubb Hut](frame|alt=Peter)(Image:PGH-TBSP.jpg.md)
 
 
@@ -63,7 +63,7 @@
 
 [NAD83/WGS84]
 
-    1. GPX File
+# GPX File
 ```
 
 <?xml version="1.0" encoding="UTF-8"?>

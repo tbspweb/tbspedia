@@ -1,6 +1,6 @@
 # TodoList
 
-    1. 2008-2009 Season Todo Timeline
+# 2008-2009 Season Todo Timeline
 Features to prioritize:
 
   * beacon:
@@ -16,7 +16,7 @@ Features to prioritize:
   *  pdf of patrol manual
   *  board signoff of new patrol manual
 
-    1. beacon.tbsp.org
+# beacon.tbsp.org
 Patrol the "electronic backcountry" with Beacon: manage your own contact information, patrol schedule, and submit attendance and patrol reports electronically.
  
 Next, head over to TBSPedia and docs.tbsp.org.
@@ -25,14 +25,14 @@ Beacon also integrates mailing lists and automatic Patrol Reminder emails.
  
 Get started now by uploading your photo and checking to make sure your patrol schedule is correct! 
 
-      1. Release Notes
+## Release Notes
 Welcome to Beacon: Helping you find your information! This online utility is designed to help you patrol the "electronic backcountry," allowing you to manage your own contact information and patrol schedules, provide single-sign-on access to TBSPedia and the TBSP's document management system, and to manage Patrol Reports and attendance tracking.
 
 An integral part of the patrol report filing process, Beacon allows easy indexing and access to PDF versions of our Patrol Reports, and gives mountain managers a powerful tool for recording events. Beacon also integrates integrated mailing list and automatic Patrol Reminder emails.
 
 Get started now by uploading your photo and checking to make sure your patrol schedule is correct! This is the BETA release of Beacon, so there are sure to be bugs. Please use the link at the bottom-right hand corner of each page to report bugs. 
 
-        1. New Features
+### New Features
 With our new system you can now:
   * Add and drop patrol days interactively
   * Update your contact information. Switch yourself from active/inactive.
@@ -40,7 +40,7 @@ With our new system you can now:
   * Single-Sign-On authentication for beacon.tbsp.org and wiki.tbsp.org
   * Automatic "patrol" emails sent every Monday morning
 
-      1. Project Roadmap
+## Project Roadmap
   * General
     * Need navigational links throughout
 
@@ -76,7 +76,7 @@ With our new system you can now:
     * Need to add users for SAR team, mark non-tbsp as "V" visiting patrollers
     * Should have view to see members of a mailing list
 
-      1. Roadmap
+## Roadmap
   * Write 2008-2009 Lottery System
   * Allow users to select a season
   * Add RSS to beacon homepage via MagpieRSS
@@ -84,7 +84,7 @@ With our new system you can now:
 
 
 
-    1. www.tbsp.org
+# www.tbsp.org
   * Replace front page with splash screen.
   * Homepage should link to 
     * TBSPedia
@@ -94,19 +94,19 @@ With our new system you can now:
 
 
 
-    1. wiki.tbsp.org
+# wiki.tbsp.org
   * PDF Export is done
 
-      1. Known issues
+## Known issues
   * Patrol Manual is not available
   * Assign reviewers for Patrol Manual
   * add librsvg for SVG image support
 
 
 
-    1. tbsp.org Automated Mailings
+# tbsp.org Automated Mailings
   1. Automatic emails for patrol officer positions
   1. Weekly Patrol Reminder emails
-      1. wish list
+## wish list
   1. Mountain Manager email address (how to specify? mm@tbsp.org?)
   1. Nag mail for filing patrol reports

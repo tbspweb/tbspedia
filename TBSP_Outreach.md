@@ -1,6 +1,6 @@
 # TBSP Outreach
 
-    1. Outline for TBSP Outreach Events
+# Outline for TBSP Outreach Events
 TBSP is partnering with the Tahoe Rim Trail Association and the Forest
 Service at Tahoe Meadows on select Saturdays in February and March to
 provide an overview of fun safe backcountry travel. It is typically a
@@ -20,7 +20,7 @@ web site:
 
 http://www.tahoerimtrail.org/index.php?option=com_content&view=article&id=257:winter-snowshoe-hikes&Itemid=226
 
-    1. Contact Information
+# Contact Information
 Steve Hale: 775-884-8112 (office)   
     
 George Kerr: 775-772-9169 (mobile)   
@@ -29,14 +29,14 @@ Snowshoe Hotline: 775-884-8103 (recorded info)
 
 Cancelations: 775-298-0231
 
-    1. Introduction
-      1. Backcountry travel is fun!
+# Introduction
+## Backcountry travel is fun!
   * Find the best snow on skis or a snowboard
   * Enjoy the fresh mountain air on snowshoes
   * More and more people are heading to the backcountry
 
 
-      1. Backcountry travel can be safe too (outline)
+## Backcountry travel can be safe too (outline)
   * How to not get into trouble
     * Know what you are doing (that's why you're here!)
     * Plan a manageable trip and stick to the plan
@@ -52,8 +52,8 @@ Cancelations: 775-298-0231
 
 
 
-    1. How to not get into trouble
-      1. Know what you are doing
+# How to not get into trouble
+## Know what you are doing
   * Navigation skills
     * Read a map and recognize terrain features around you
     * Use a compass
@@ -65,7 +65,7 @@ Cancelations: 775-298-0231
   * Snow camping skills for overnight trips
 
 
-      1. Planning
+## Planning
   * Plan your trip in advance and follow your plan
   * Be prepared to change your plan as the conditions dictate
     * Set a turn-around time!
@@ -80,7 +80,7 @@ Cancelations: 775-298-0231
     * Follow through and don't forget to call
 
 
-      1. Watch the weather
+## Watch the weather
   * Check in advance
   * Carry NOAA radios on longer trips
   * Keep an eye on the sky
@@ -88,7 +88,7 @@ Cancelations: 775-298-0231
     * Watch the clouds
 
 
-      1. Travel rules
+## Travel rules
   * Stay together (travel at the pace of the slowest person)
   * Stop at intersections
   * Rest, eat and drink frequently
@@ -102,7 +102,7 @@ Cancelations: 775-298-0231
   * Get out before dark (turn-around time)
 
 
-      1. Carry the proper equipment
+## Carry the proper equipment
   * Day trip essentials
     * Sufficient warm clothing and storm gear - no cotton!
     * Hat with a brim, sunglasses and sun screen
@@ -127,7 +127,7 @@ Cancelations: 775-298-0231
       * Phone coverage can be variable
       * Cell phones are not a substitute for planning!
 
-    1. Avalanche safety
+# Avalanche safety
   * Take a level I course
   * Call the avalanche hotline ([www.sierraavalanchecenter.org](http://www.sierraavalanchecenter.org/), 530-587-2158)
   * Avalanche triangle
@@ -139,8 +139,8 @@ Cancelations: 775-298-0231
   * Carry the essential equipment (transceiver, shovel, probe)
 
 
-    1. What to do if you get into trouble
-      1. Survival tips
+# What to do if you get into trouble
+## Survival tips
   * If truly lost, S.T.O.P. (Sit, Think, Observe, Plan)
   * Stay put
     * Don't get more lost
@@ -160,7 +160,7 @@ Cancelations: 775-298-0231
   * Be positive!
 
 
-      1. What to do if someone in your party is hurt
+## What to do if someone in your party is hurt
   * Get word to rescuers
     * Cell phone or radio
     * Send someone for help
@@ -183,7 +183,7 @@ Cancelations: 775-298-0231
  Snow trench demonstration 
 
 
-    1. How to learn more
+# How to learn more
   * Go with experienced people
   * Take classes
     * REI

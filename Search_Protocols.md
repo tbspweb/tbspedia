@@ -1,10 +1,10 @@
 # Search Protocols
 
-    1. TBSAR / MJKSAR SEARCH PROTOCOLS
+# TBSAR / MJKSAR SEARCH PROTOCOLS
 This document is intended to provide general guidelines and protocols for TBSAR searchers to use while performing search and rescue operations. These are recommendations and should be tailored to fit individual situations, search grids, and conditions.
 
 
-      1. HOW TO SEARCH EFFICIENTLY
+## HOW TO SEARCH EFFICIENTLY
   * Skis are efficient for downhill travel, and no more efficient than snowshoes for sidehill or contour travel. 
   * Breaking trail should be done as a group, there is no efficiency to having all individuals breaking their own trail.
   * Breaking trail while side-hilling is the worst.
@@ -21,7 +21,7 @@ Keep this in mind when deploying for searches. The same grid area which can take
   * If powder is expected bring your skis with the most surface area - and skins to match
   * Find victim
 
-      1. FREQUENTLY ASKED QUESTIONS
+## FREQUENTLY ASKED QUESTIONS
   * How do I assess Probability of Discovery?
 
 Probability of Discovery (PoD) is an art form refined through training and experience. You are expected to render a PoD judgment for a responsive patient scenario and an unresponsive patient scenario. Err on the side of caution.
