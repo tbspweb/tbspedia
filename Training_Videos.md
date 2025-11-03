@@ -4,12 +4,12 @@
 
 This page is for posting videos, both made by TBSP and those not made by TBSP! This is intended to be a resource for our candidates.
 
-    1. Navigation
-    1. Shelters and Survival
-    1. Snow Cave
+# Navigation
+# Shelters and Survival
+# Snow Cave
 <videoflash>XOJQPz1s-1c</videoflash>
 
-    1. Backcountry OEC
+# Backcountry OEC
   *Pitching a Megamid over a patient
 <videoflash>jY3Y7hcUAhE&fmt=22</videoflash>
 
@@ -22,10 +22,10 @@ This page is for posting videos, both made by TBSP and those not made by TBSP! T
   *Brooks Range Sled Tips and Tricks
 <videoflash>5n9G0LLaVVI</videoflash>
 
-    1. Rope Systems and Anchors
+# Rope Systems and Anchors
 = How to Post Videos =
 Edit this page and post your own videos!
-      1. Youtube
+## Youtube
 Original url: http://www.youtube.com/watch?v=4lhyH5TsuPg
 Wiki code:
 
@@ -35,7 +35,7 @@ Wiki code:
 
 ```
 
-      1. GoogleVideo
+## GoogleVideo
 Original url: http://video.google.it/videoplay?docid=1811233136844420765
 
 Wiki code:
@@ -49,62 +49,62 @@ Wiki code:
 
 = Future Plans = 
 
-    1. Rope Rescue
+# Rope Rescue
   1. Discussion of components, How it comes out of the bag
     1.Switching from Raising to Lowering System
   1. Anchors
-    1. BFT
-    1. T-Slot
-    1. Anchor selection (fall line, other considerations)
-    1. Pickets
-    1. Cordelette
+# BFT
+# T-Slot
+# Anchor selection (fall line, other considerations)
+# Pickets
+# Cordelette
   1. OEC Procedures
-    1. Getting patient onto belay
-    1. Hasty harness for patients
-    1. Attaching patient to mainline
-    1. Attaching mainline to sled
+# Getting patient onto belay
+# Hasty harness for patients
+# Attaching patient to mainline
+# Attaching mainline to sled
   1. Mainline
-    1. Flaking
-    1. attaching to anchor
+# Flaking
+# attaching to anchor
   1. Belay line
-    1. Anchoring and considerations
-    1. Rescuer belay vs patient belay
+# Anchoring and considerations
+# Rescuer belay vs patient belay
   1. Raising and Lowering
-    1. Taking up slack on belay line
-    1. Repacking
+# Taking up slack on belay line
+# Repacking
 
-    1. Complex Scenarios
+# Complex Scenarios
   1. CHP Rescue Helicopter Capabilities
-    1. Bauman Bag
-    1. Rescue Sling
-    1. Diaper Sling
+# Bauman Bag
+# Rescue Sling
+# Diaper Sling
   1. Non Helicopter Rescue
  # Rope Rescue with Trauma - consider filming on drainages above castle meadow
 
-    1. Emergency Sleds
+# Emergency Sleds
   1. Construction
   1. Transport
 
-    1. Medical
+# Medical
   1. Ensolite quick-splint
   1. Ski-Pole Traction Device
 
-    1. Orienteering and Navigation
+# Orienteering and Navigation
   1. Grid coordinates
-    1. 6-digit UTM coordinates
-    1. lat/long scaler
+# 6-digit UTM coordinates
+# lat/long scaler
   1. bearings
   1. resectioning
-    1. Using the compass to obtain bearings
+# Using the compass to obtain bearings
 
-    1. Emergency Shelter
+# Emergency Shelter
   1. Megamid
-    1. Introduction 
-    1. Foot method
-    1. Side Method
-    1. Repacking 
-    1. In-Snow Setup
+# Introduction 
+# Foot method
+# Side Method
+# Repacking 
+# In-Snow Setup
   1. Trench Shelter
-    1. Excavation 
-    1. Rigging Tarp
-    1. Creating the roof
+# Excavation 
+# Rigging Tarp
+# Creating the roof

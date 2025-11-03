@@ -85,19 +85,19 @@ times and do the sample problems you should be able to master all three systems.
 questions you have regarding the written material.
 
 ## Universal Transverse Mercator (UTM)
-        1. Basis of system
+### Basis of system
 Distance is measured in meters north and south from the equator and east from a central meridian. 
 
 From the wikipedia entry for UTM: The point of origin of each UTM zone is the intersection of the equator and the zone's central meridian, but to avoid dealing with negative numbers the central meridian of each zone is set at 500,000 meters East. http://en.wikipedia.org/wiki/Universal_Transverse_Mercator_coordinate_system
 
-        1. Map marks
+### Map marks
 UTM grid coordinates are the series of black numbers on the white border of the map next to the blue grid ticks. For
 example, in the upper left margin of the 7.5-minute Norden Quadrangle appears the number 4361000N. The blue grid tick
 to the right of this number marks a distance 4,361 kilometers (4,361,000 meters) north of the equator. In the left end of
 the top margin of the map, just below the words "GEOLOGICAL SURVEY" is the number 727000E. The blue grid tick
 to the left of this number marks a distance 727 kilometers (727,000 meters) east of the principal meridian. Other similar
 numbers on the map eliminate the 000m and express the distance only in kilometers.
-        1. Using the map marks to describe a location
+### Using the map marks to describe a location
 Forget all of the superscript numbers. Henceforth, 4361000N will be referred to as 61, and 728 as 28. To learn how to
 describe your location, let's use an example from the Norden 7.5 minute map:
   *       locate the summit of Donner Peak in the middle of your Norden 7.5 minute map.
@@ -116,19 +116,19 @@ located roughly 1 3/4 inches from the bottom margin and 6 1/2 inches from the ri
 of this appendix.
 
 ## Public Land System (Township and Range)
-        1. Basis of system
+### Basis of system
 Figures 2 and 3 of this article describe the Township and Range system used by the Forest Service. Because we
 patrol pursuant to volunteer agreements with the Forest Service and use their radio system, we must know how to
 communicate in a language the Forest Service's radio dispatcher understands. Once you understand the basic Township
 and Range system, return to this page to learn how to more precisely express a particular location using this system.
-        1. Map marks
+### Map marks
 Township, Range and Section boundaries are marked in red on USGS maps. If the line is dashed, it means its location is
 approximate. Township (T.) and Range (R.) designations are found along the margins of the map wherever there is a
 Township or Range boundary (as contrasted with a Section boundary). Township and Range designations also appear in
 the body of the map where appropriate to mark a deviation in the boundary. Section numbers appear in red in the center
 of each Section. For example, the Peter Grubb Hut is located in Section 2, T. 17 N., R. 14 E.
 Using the map marks to describe a location
-        1. To describe a particular point within a section:
+### To describe a particular point within a section:
   *        find the Township and Range, and the section
   *        divide the Section into four equal quarters, also know as quadrants.
   *        subdivide the quadrant in which you are located (or wish to describe) into four sub-quadrants.
@@ -158,7 +158,7 @@ Townships are numbered north and south of the base line.
   *   A legal description of this parcel of 40 acres(beginning with the smallest designation first) will read: ýSE 1D4 NE 1D4, Section 36, T. 3 S R. 45 E.ý
                                                                       
 ## Geographic Coordinates (Latitude and Longitude)
-        1. Basis of system
+### Basis of system
 Geographic coordinates use the degree as the basic unit of measurement, with subdivisions into minutes and seconds.
 The origin of this system is off the west coast of Africa, where the Greenwich meridian (0o longitude) intersects the
 equator (0o latitude). Latitude is measured north or south of the equator up to 90o at the poles, and longitude is measured
@@ -166,7 +166,7 @@ west or east of the Greenwich meridian up to 180o in the Pacific Ocean. The cont
 Alaska are in latitude north and longitude west. Therefore, "north" and "west" may be dropped when giving geographic
 coordinates in the U.S. In the U.S. latitude and longitude cannot be confused with each other because the range of
 numbers used to describe each are so different. However, by convention latitude is normally given first.
-        1. Map marks
+### Map marks
 Each corner of a USGS map contains a latitude and longitude reference. Latitude references are on the left and right
 margins and longitude on the top and bottom margins. An easy way to remember which is which is that San Francisco is
 at (roughly) latitude 38, so all of our latitude references will be near 38. [remember that in the U.S. the longer
@@ -176,7 +176,7 @@ minute and 30 second reference if it falls between minutes) and a black tick ext
 example, one-third of the way up the left or right hand margin of the 7.5 minute Norden Quadrangle is the reference
 17'30", which is really 39 °17'30". Similarly, one-third of the way across the top or bottom margin from the left border is
 the designation 20', which is really 120 °20'.
-        1. Using the map marks to describe a location
+### Using the map marks to describe a location
 Plotting approximate latitude and longitude on a topo map in the field is a relatively simple process. There are two ways
 to do it, mathematically and geometrically. Fortunately, on the maps we use the two methods are virtually identical, and
 produce a third method which we call Quick and Dirty (Q&D). We will describe the Q&D method first, but remember

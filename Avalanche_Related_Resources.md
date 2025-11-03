@@ -1,17 +1,17 @@
 # Avalanche Related Resources
 
-    1. Avalanche Basics and Nomenclature
+# Avalanche Basics and Nomenclature
 ;Avalanche Safety Tutorial (National Avalanche Center): https://avalanche.org/avalanche-tutorial/
 ;Avalanche Encyclopedia (National Avalanche Center): https://avalanche.org/avalanche-encyclopedia/#anchors
 ;How to Read an Avalanche Advisory (Sierra Avalanche Center): http://sierraavalanchecenter.org/how-to-read-avalanche-advisory
 ;Free snow pit plotting software: http://www.snowpilot.org/
 ;A quick description of faceting (and other information on the physics of snow crystal formation): http://www.its.caltech.edu/~atomic/snowcrystals/faceting/faceting.htm
 
-    1. Stability Test Videos
+# Stability Test Videos
 ;Where to Dig a Snowpit: https://www.youtube.com/watch?v=C7n4S1U7ybM
 ;Demonstrations of several snowpack (in)stability tests: https://www.youtube.com/watch?v=OvwhuP4qtQg
 
-    1. Rescue and Rescue Equipment
+# Rescue and Rescue Equipment
 ;BCA Training Videos: https://backcountryaccess.com/en-us/learn-avalanche-safety/avalanche-rescue
 
 ;Extensive Transceiver Reviews: https://beaconreviews.com
@@ -19,13 +19,13 @@
 
 ;Snow Immersion Suffocation (SIS) Safety: http://www.deepsnowsafety.org/index.php/
 
-    1. On-line Maps Tools with Slope Angle, and Route-finding Exercises
+# On-line Maps Tools with Slope Angle, and Route-finding Exercises
 ;Route-Finding Interactive On-line Exercise: https://avysavvy.avalanche.ca/en-ca/route-finding-exercises
 ;CalTopo mapping tool: https://caltopo.com
 ;CalTopo training: https://training.caltopo.com
 ; Backcountry Ski Maps (with routes and slope angle shading, digital and print): https://backcountryskimaps.com
 
-    1. Tools for Slope Angle in the field
+# Tools for Slope Angle in the field
 ; Pieps 30 Degree Plus XT Electronic Inclinometer
 ; BCA Slopemeter https://backcountryaccess.com/en-us/p/slope-meter-2023
 ; Poleclinometer https://poleclinometer.com/
@@ -37,16 +37,16 @@ Phone apps:
 ;
 
 
-    1. Alpha Angle References
+# Alpha Angle References
 ; 2014 WildSnow article: Alpha Angle — How Far Can that Avalanche Go? by Lou Dawson  https://www.wildsnow.com/10011/alpha-angle-avalanche-safety/
 ; Backcountry Magazine 2016 article: Mountain Skills: Understanding Alpha Angles https://backcountrymagazine.com/stories/mountain-skills-alpha-angle/
 ;
 
-    1. Map reading
+# Map reading
 ;Introduction to Topographical maps: http://howtowilderness.com/map-training/
 ;How to Use a Compass with a Topo Map: https://pubs.usgs.gov/fs/2001/0035/report.pdf
 
-    1. Avalanche Video/Media Archive
+# Avalanche Video/Media Archive
 ;A Dozen More Turns (Film): https://www.youtube.com/watch?v=w7Pye9f602s
 ;The Avalanche at Tunnel Creek (Film): http://www.nytimes.com/video/sports/100000001957178/the-avalanche-at-tunnel-creek.html
 ;The Human Factor 1.0: http://www.powder.com/the-human-factor-1.0/
@@ -55,15 +55,15 @@ Phone apps:
 ;Tree Well Incident Caught on Video: https://www.youtube.com/watch?v=0jvEYzh_1Sg
 ;Wilson Glade Avalanche Incident Report (2021): https://utahavalanchecenter.org/avalanche/59084
 
-    1. Avalanche Education
+# Avalanche Education
 ;Sierra Avalanche Center local providers: https://www.sierraavalanchecenter.org/education/providers
 
-    1. Recommended Reading
+# Recommended Reading
 ;Avalanche Essentials, Bruce Tremper (2013)
 ;Staying Alive in Avalanche Terrain, Bruce Tremper (3rd edition, 2018)
 ;Avalanche Handbook, David McClung & Peter Schaerer (4th edition coming 2023)
 
-    1. Local and National/Global Route Finding Resources
+# Local and National/Global Route Finding Resources
 ;Backcountry Ski Maps: https://backcountryskimaps.com
 ;FATMAP (contains some BC and side-country routes in addition to resort runs): https://fatmap.com
 ;rootsrated.com: https://rootsrated.com/lake-tahoe-ca/backcountry-skiing

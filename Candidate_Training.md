@@ -13,14 +13,14 @@ In addition:
   * You have gear for single day backcountry tours or are prepared to put together the gear and daypack for single day tours
   * You have the time and are committed to completing the course and becoming a TBSP patroller
 
-    1. Time commitment
+# Time commitment
 The candidate training season is a major time commitment. 
 
 OEC Candidates have a 15 day commitment their first year.  Non-OEC candidates have a 14 day commitment.  These days are a mix of classroom and field training days, and days out shadowing our normal patrols. Candidates will be able to sign up for these shadow patrol days on our website tbsp.org after Nov 21, 2011. Candidates who have NSP MTR experience or AIARE or NSP Avalanache Level 1 certification can challenge some of the training days.
 
 The commitment for a full patroller is 8 days per season. 
 
-      1. OEC Candidates
+## OEC Candidates
 For candidates who complete the National Ski Patrol's Outdoor Emergency Care before their candidate season, the candidate year is 15 days.  Candidates become full patrollers at the end of this season with completion of the final.  Training days consist of 4 Candidate Patrols, a three-day Basic Mountain Travel and Rescue course (1 classroom, 2 overnight field), a three-day Basic Avalanche for the Professional Rescuer (1 classroom, 2 field days),  one OEC Skills clinic, and four days out shadowing our normal patrols. 
 
 The dates for the 2011/12 season are (tentative):
@@ -39,10 +39,10 @@ The dates for the 2011/12 season are (tentative):
   *  ... Any Four Patrol Days
   *  4/14/2012  Saturday      Candidate Final
 
-      1. Transfer Patrollers
+## Transfer Patrollers
 Transfer Patrollers follow the same schedule as OEC candidates, though transfers who have already completed MTR1 or Avi may get approval from the training coordinator to skip redundant trainings.
 
-      1. Candidates without OEC
+## Candidates without OEC
 Candidates without OEC training are required to have a current certification in two-rescuer CPR 
 (Red Cross CPR for the Professional Rescuer or equivalent). 
 
@@ -66,7 +66,7 @@ For candidates who begin their candidate training before completing the National
   * Returning candidate final evaluation
   * Patrol Days (at least 5 patrol days)
 
-      1. Returning Candidates
+## Returning Candidates
 The training dates for returning candidates for 2011/12 are:
   * 12/10/2011  Saturday     On-The-Hill Refresher
   *   1/7/2012  Saturday     Candidate Patrol 2
@@ -74,8 +74,8 @@ The training dates for returning candidates for 2011/12 are:
   *        TBD  Saturday     Returning Candidate Final
   * ...  Any Five Patrol Days!
 
-    1. About the training
-      1. Mountain Travel and Rescue
+# About the training
+## Mountain Travel and Rescue
   * Map and Compass Exercises
     * Dead reckoning
     * Map and Compass skills
@@ -86,7 +86,7 @@ The training dates for returning candidates for 2011/12 are:
   * Winter survival
   * Leadership
 
-      1. Introduction to TBSP / Candidate Patrols
+## Introduction to TBSP / Candidate Patrols
   * TBSP history, goals, and responsibilities: Familiarity with each of our primary patrol areas;  Radio protocols.
   * Morning patrol meeting and checkout: Care and use of radios; Care and use of TBSP group gear.
   * Evening patrol meeting, equipment care.
@@ -99,7 +99,7 @@ The training dates for returning candidates for 2011/12 are:
   * Familiarity with backcountry & car caches.
   * Major incident handling and coordination; Familiarity with the incident command system(ICS).
 
-      1. NSP Avalanche Lev 1
+## NSP Avalanche Lev 1
   * Beacon Searches
   * Probe searches / guidon cord
   * Safe travel in backcountry terrain.

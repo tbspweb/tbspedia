@@ -14,13 +14,13 @@ you will receive SAC reports, even if you're not personally subscribed the list.
 Be safe! This is a safety and best practices thing, so please don't try and unsubscribe.
 (Unsubscribing wont work anyway...) Mail will only arrive while you are scheduled to patrol!
 
-    1. Scheduled Patrols
+# Scheduled Patrols
 Your Mountain Manager contact details:
 %% MMINFO %%
 
 %% SCHEDULE %%
 
-    1. Patroller Instructions
+# Patroller Instructions
 PATROL REPORTS: 
  Use the above link to start your patrol report **before** you start your patrol! 
  We ask you to start your patrol report prior to patrolling so you have a chance

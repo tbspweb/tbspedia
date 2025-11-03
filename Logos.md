@@ -6,7 +6,7 @@ They are provided for use in augmenting media stories and for official patrol do
 
 Logos may also be available at http://docs.tbsp.org/browse.php?fFolderId=13
 
-    1. Logos
+# Logos
   * Image with full text, suitable for external publicity
 
 [logo1.gif](Image:TBSP)(Image:TBSP logo1.gif.md)

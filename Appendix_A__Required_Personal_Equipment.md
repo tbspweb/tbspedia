@@ -50,7 +50,7 @@ Use jacket, bibs, poncho, etc. for layering and weatherproofing yourself. These 
   1. Pants permitting maximum range of leg motion
   1. Sufficient number of layers to permit comfort in all environmental conditions
 
-    1. Required Equipment for Patrollers and Candidates
+# Required Equipment for Patrollers and Candidates
 This section describes required equipment for Patrollers and Candidates. MTR and Avalanche course students, guests and Ski Alongs do not need to carry this equipment.
 
 ## Individual First Aid Kit
