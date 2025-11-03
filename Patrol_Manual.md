@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Patrol Manual
-permalink: /tbspedia/PatrolManual
 ---
 
 # PATROL MANUAL
