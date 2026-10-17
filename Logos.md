@@ -9,7 +9,7 @@ Logos may also be available at http://docs.tbsp.org/browse.php?fFolderId=13
 # Logos
   * Image with full text, suitable for external publicity
 
-![TBSP logo with full text](images/TBSP%20logo1.gif)
+![TBSP logo with full text](images/TBSP_logo1.gif)
 
   * Image with TBSP only, for internal documents
 

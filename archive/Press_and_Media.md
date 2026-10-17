@@ -6,7 +6,7 @@ TBSP In the News!
   * March 2, 2010: TBSP involved in a search for a missing snowshoer in the Castle area:
 http://www.rgj.com/article/20100304/NEWS/100304008/1003/CARSON/Searchers-looking-for-man-missing-while-snowshoeing-in-Donner-Summit-area
 
-  * Article about the search and rescue published in the Summer issue of Ski Patrol Magazine: [PDF] [file:https://tbsp.org/tbspedia/images/c/cb/SkiPatrolMagazine-Summer2010-DonnerSummit.pdf]
+  * Article about the search and rescue published in the Summer issue of Ski Patrol Magazine (Summer 2010; the PDF copy did not survive the wiki migration)
 
 # 2008
 http://www.skiingthebackcountry.com/backcountry_ski_patrol.php
