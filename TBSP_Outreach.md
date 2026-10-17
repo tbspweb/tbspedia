@@ -21,13 +21,10 @@ web site:
 http://www.tahoerimtrail.org/index.php?option=com_content&view=article&id=257:winter-snowshoe-hikes&Itemid=226
 
 # Contact Information
-Steve Hale: xxxxx (office)   
-    
-George Kerr: xxxxx (mobile)   
-  
-Snowshoe Hotline: 775-884-8103 (recorded info)
+Contact the Outreach Officer at [outreach@tbsp.org](mailto:outreach@tbsp.org)
+for Forest Service contacts and cancelations.
 
-Cancelations: xxxxx
+Snowshoe Hotline: 775-884-8103 (recorded info)
 
 # Introduction
 ## Backcountry travel is fun!
