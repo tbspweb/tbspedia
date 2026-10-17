@@ -1,3 +1,0 @@
-# Patrol Director
-
-Patrol Director

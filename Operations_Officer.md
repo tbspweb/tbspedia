@@ -1,3 +1,0 @@
-# Operations Officer
-
-Operations Officer.

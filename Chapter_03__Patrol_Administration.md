@@ -19,10 +19,10 @@ A patroller designated by the Mountain Manager to be in charge of patrol activit
 
 # Elected Positions
 The elected positions are defined in the patrol bylaws.
-### [Board of Directors](Board_of_Directors.md)
+### Board of Directors
 The Board of Directors has six members plus the Patrol Director. Board positions include the patrol treasurer/registrar and patrol secretary. Officers are appointed by the Patrol Director and approved by the Board of Directors. Elections for three of the six Board of Director positions are held in the spring of each year, and board members serve two-year terms.
 
-### [Patrol Director](Patrol_Director.md)
+### Patrol Director
 The Patrol Director has overall responsibility for patrol organization and activities; appoints other patrol officers; decides operational policy in consultation with Board of Directors, other patrol officers and membership.
 The Patrol Director serves a two-year term, and is elected at the end of the season. 
 
@@ -33,7 +33,7 @@ These positions are appointed by Patrol Director for one-year term-of-office.
 Executive officer of TBSP. Shares duties and responsibilities for patrol leadership and operations with Patrol Director. 
 The Assistant Patrol Director is expected to succeed the current patrol director on completion of his term of office.
 
-### [Operations Officer](Operations_Officer.md)
+### Operations Officer
 Responsible for daily Patrol field operations. Coordinates equipment maintenance and procurement with Mountaineering, Avalanche, and OEC Advisors. Establishes patrol schedule and maintains records of daily patrol activities, including operations log reports, incident reports and
 SAR reports.
 
@@ -42,7 +42,7 @@ Coordinates [Candidate Training](Candidate_Training.md) with assistance from Mou
 and OEC Advisors and Candidate Liaison. Maintains patrol training records, and certifies completion of required training for candidates. The training officer also tracks the recency of instructor certifications and organizes the instructors-of-record for official patrol sponsored instruction activities.
 
 
-### [Outreach Officer](Outreach_Officer.md)
+### Outreach Officer
 Responsible for TBSP public outreach programs. Coordinates Tahoe Meadows outreach program. This officer may also assist the patrol director with TBSP public relations.
 
 ### [Recruiter](Recruiter.md)
