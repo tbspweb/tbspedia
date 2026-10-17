@@ -3,7 +3,10 @@
 TBSPedia is the Tahoe Backcountry Ski Patrol's reference manual. It used to be
 a MediaWiki site. It is now a set of Markdown pages that admins edit directly
 on GitHub. GitHub Pages publishes the pages under the main TBSP site at
-`/tbspedia/`.
+<https://tbsp.org/tbspedia/> (the old wiki.tbsp.org address is retired).
+
+This README is the editing guide. It is not published as a TBSPedia page;
+the TBSPedia home page links here instead.
 
 ## Who can edit
 
@@ -36,18 +39,22 @@ but they can't edit them, and there are no comment or talk pages.
 2. Name the file using words joined by underscores, ending in `.md`, for
    example `Avalanche_Beacon_Practice.md`. The page will be published at
    `/tbspedia/Avalanche_Beacon_Practice`.
-3. Start the file with this block (keep the `---` lines):
+3. Start the file with the page title as a single `#` heading, and use
+   `##` for sections and `###` for subsections under them:
 
    ```
-   ---
-   layout: default
-   title: Avalanche Beacon Practice
-   ---
-
    # Avalanche Beacon Practice
 
    Page text goes here.
+
+   ## Setting up a practice field
+
+   More text.
    ```
+
+   Use only one `#` heading per page. The block of `---` lines at the top
+   of some pages (front matter) is optional; leave it alone where it
+   exists.
 
 4. Commit it, then link to it from `index.md` (the TBSPedia home page) so
    people can find it.
@@ -55,7 +62,10 @@ but they can't edit them, and there are no comment or talk pages.
 ## Linking and images
 
 - To link to another TBSPedia page, use its file name:
-  `[Radio Operation](Appendix_I__Radio_Operation.md)`.
+  `[Radio Operation](Appendix_I__Radio_Operation.md)`. Don't use full
+  `https://tbsp.org/tbspedia/...` addresses for TBSPedia pages.
+- Pages are plain Markdown. MediaWiki syntax such as `[[Page]]`,
+  `{{Template}}` or `== Heading ==` does not work here.
 - Images live in the `images/` folder. To add one, open that folder, click
   **Add file** → **Upload files**, and use names without spaces. To show an
   image on a page, add `![What the image shows](images/Prusik.png)`.

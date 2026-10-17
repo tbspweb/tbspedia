@@ -34,3 +34,5 @@ Welcome to TBSPedia, the online resource for the Tahoe Backcountry Ski Patrol an
 - [Senior Program](Senior_Program.md) - Information on how and why to become a Senior Patroller in TBSP.
 
 [List all available pages](list_pages.md)
+
+Admins: see [how to edit TBSPedia](https://github.com/tbspweb/tbspedia#readme) on GitHub.
