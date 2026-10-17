@@ -39,12 +39,12 @@ the Course. For further information, please contact the TBSP OEC Advisor.
   1.  For further information on this and other bloodborne pathogens, contact your doctor. Also visit the Center for Disease Control (CDC) online, at: http://www.cdc.gov/ncidod/dhqp/bp.html
 ## Spine Immobilization (Backboarding).
   1. Injuries or conditions requiring patient stabilization and immobilization to a long spine board (backboard) include:
-# Head, neck or back injuries
-# Unresponsiveness (unless it was caused solely by a witnessed medical condition/emergency)
-# Mid-shaft femur fracture
-# Proximal femur fracture ("hip fracture")
-# Pelvic fracture
-# Hip dislocation
+     1. Head, neck or back injuries
+     1. Unresponsiveness (unless it was caused solely by a witnessed medical condition/emergency)
+     1. Mid-shaft femur fracture
+     1. Proximal femur fracture ("hip fracture")
+     1. Pelvic fracture
+     1. Hip dislocation
   1. Backboarding is contraindicated if maintaining the patient's airway or the patient's ability to breathe is compromised by strapping to the backboard and/or across the patient's severely injured chest.  Maintaining breathing and the ABC's takes priority over treatment of spinal injuries.
   1. An adjustable cervical collar is to be sized and installed as soon as possible.
   1. Backboard straps shall be hook-and-loop (Velcro) "Spider" straps. If Spider straps are not available, 1" minimum width nylon webbing from a patroller's sled hauling kit may be used, criss-crossed across the patient's body starting from the shoulders down.
