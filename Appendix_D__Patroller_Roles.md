@@ -9,24 +9,24 @@
 ## Prior to the Weekend
   * Decide how many patrols for each day of the upcoming weekend. Plan for equipment usage. 
     * Minimum patrol is 1 full patroller and 1 candidate who has completed OEC.
-    * Arrange with your PLs what [Training](In-Service)(In-Service Training.md) will be performed by each patrol.
+    * Arrange with your PLs what [In-Service Training](In-Service_Training.md) will be performed by each patrol.
   * Solicit volunteers for Patrol Leader (PL) positions for each day. 
     * Arrange with PLs to meet at equipment shed at 8:00 am on the patrol to prepare patrol gear. 
     * Assign remaining people to their PLs and inform PLs and patrollers.
-  * [for any ski alongs.](Plan)(SkiAlong.md) (Max 2/day, must go to CP)
+  * [Plan for any ski alongs.](Appendix_S__Patrol_Recruiting.md) (Max 2/day, must go to CP)
   * Keep your RADIO ON and CELL PHONE CHARGED.
 
 ## Day of Patrol
-  * **7:30 am**: Check [conditions, weather and avalanche forecasts](road)(Current conditions.md). Modify plan for patrolling as appropriate. 
+  * **7:30 am**: Check [road conditions, weather and avalanche forecasts](Current_conditions.md). Modify plan for patrolling as appropriate. 
   * **8:00 am**: Meet PLs at equipment shed. Prepare patrolling gear and use Patrol Report to log gear out. 
     * Make sure each patrol has the appropriate forms/maps for their National Forest.
     * MM may make recommendations, but PLs have final say over route selection and equipment usage.
   * **8:30 am**: Meet remaining patrollers at the patrol shed. Wait at least 15 minutes (more if conditions warrant) for stragglers. Modify patrol assignments if necessary for balance.
     * Decide on time to rendezvous at the equipment shed - generally 4:30 p.m. (early season) to 5:30 p.m. (late season). Remember, most incidents occur late in the day.
 
-;Meeting at the Trailhead: Meeting at the trailhead is always an option, however because patrol assignments and planning are based on who shows up at the patrol shed. The decision to allow meeting at a specified trailhead is at the sole discretion of the Mountain Manager and must be approved in advance.
+- **Meeting at the Trailhead**: Meeting at the trailhead is always an option, however because patrol assignments and planning are based on who shows up at the patrol shed. The decision to allow meeting at a specified trailhead is at the sole discretion of the Mountain Manager and must be approved in advance.
 
-; Patrol Cancellation: Cancellation of the patrol is always up to the discretion of the mountain manager. If canceling, contact scheduled patrollers and leave message on Chalet answering machine. Patrols can be cancelled because of torrential rain or road closures; patrols should not be cancelled because of heavy snow or high avalanche danger. *If members of the public are out there, we should be too.*
+- **Patrol Cancellation**: Cancellation of the patrol is always up to the discretion of the mountain manager. If canceling, contact scheduled patrollers and leave message on Chalet answering machine. Patrols can be cancelled because of torrential rain or road closures; patrols should not be cancelled because of heavy snow or high avalanche danger. *If members of the public are out there, we should be too.*
 
   * Carry a radio, even if not on patrol, and a spare battery.
 
@@ -74,11 +74,11 @@ Thanks for being a Mountain Manager!
   * Schedule a patrol day to make up for any official sign-up day you missed. Exceptions will be entirely at the discretion of Operations Officer, but might include lack of snow (early in the season), or extended highway closure due to extreme weather. Exceptions will NOT include rain, personal reasons or a few snowflakes. Attendance will be monitored and you will be notified if you don't fulfill your required number of patrol days.
 ## Prior to Patrol Weekend
   * Contact MM with any questions or to volunteer for Patrol Leader responsibilities
-  * Prepare [Equipment](Personal)(Personal Equipment.md) as per manual (such as replacing old batteries, making sure you have the right maps, restocking first aid supplies, etc.). Carry a charged cell phone.
+  * Prepare [Personal Equipment](Appendix_A__Required_Personal_Equipment.md) as per manual (such as replacing old batteries, making sure you have the right maps, restocking first aid supplies, etc.). Carry a charged cell phone.
   * Arrange transportation and car-pools for the weekend, and where to meet if other than the Shed. Keep in mind that patrol assignments may change at the last minute for a variety of reasons.
 ## Patrol Day
   * Verify road conditions for safety.
-  * Bring all your [gear](mandatory)(Personal Equipment.md), as well as TBSP phone list and charged cell phone if you have one.
+  * Bring all your [mandatory gear](Appendix_A__Required_Personal_Equipment.md), as well as TBSP phone list and charged cell phone if you have one.
   * Arrive at the equipment shed (or other meeting spot designated by MM) by 8:30 am (call shed if you’re going to be late.). Wait, if necessary, for the MM and PLs to arrive. Proceed with assigned patrol to patrolling location.
   * Inform PL of anything that may compromise your effectiveness while patrolling, such as physical limitations.
   * Receive assigned equipment from PL, and carry in your pack. Participate in avalanche transceiver check.
@@ -88,4 +88,4 @@ Thanks for being a Mountain Manager!
   * Remember to have fun!
   * Return assigned equipment to the PL at the end of the patrol day at shed or trailhead, and notify the PL if any equipment needs to be dried, repaired or has been opened.
 
-{{PatrolManual}}
+Back to the [Patrol Manual](Patrol_Manual.md).

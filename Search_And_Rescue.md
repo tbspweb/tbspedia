@@ -1,7 +1,7 @@
 # Search And Rescue
 
 # TBSP Search and Rescue Team
-[in the CHP Helicopter](right|thumb|Calling)(Image:SAR.jpg.md)
+![Calling in the CHP Helicopter](images/SAR.jpg)
 Welcome to the TBSP Search and Rescue team homepage.
 
 With the first N. Cal. search of the season in the news this is the time to think TBSP-SAR. Last year the Far West Division gave us 15 radios (ICOMS), some rope rescue gear, and 3 Mega-Lite tents. We presently have about 30 members, 2/3 from TBSP. The recent search in Butte County involved over 100 searchers. They couldn't find the lost folks who were only 1.5 miles from their car and on (under) alogging road. California needs our team and its backcountry skills!
@@ -16,7 +16,8 @@ We don't expect all members to respond to a given mission. Respond when you can.
 Our new callout procedure involves an automatic dialing service. All of your numbers will be dialed unless you tell me otherwise.
 
 ## ID Cards
-[responding to the [http://www.sbsun.com/news/ci_7950370 Green Valley Lake SAR](left|thumb|Ryan)(Image:Gvsar.jpg.md)]
+![Ryan responding to the Green Valley Lake SAR](images/Gvsar.jpg)
+([news story](http://www.sbsun.com/news/ci_7950370))
 We are required to carry OES ID Cards during all SAR missions. To produce your card we need a digital or paper headshot. Please email it to [sarids@tbsp.org](mailto:sarids@tbsp.org). We need all of this information in one file, so please send the photo to him even if you sent an earlier one to me. I also need the name and phone number(s) of someone to notify in case of emergency. Please send that info to me by email. You will be issued a temporary ID card until the laminated ones arrive.
 
 # Registration with TBSP-SAR
@@ -26,12 +27,12 @@ If you are interested, and I sincerely hope that you are, please contact sar@tbs
 
 To register as a California Disaster Worker:
 
-  1. Obtain a copy of the form on page 14 (15 of the PDF) in the Disaster Services Worker guide [at http://docs.tbsp.org/view.php?fDocumentId=99](available) 
+  1. Obtain a copy of the form on page 14 (15 of the PDF) in the Disaster Services Worker guide [available here](http://docs.tbsp.org/view.php?fDocumentId=99) 
   1. Take the loyalty oath before a notary
   1. Get the original to Mike before any training or missions
 
 ## Non-TBSP Patrollers: NSP Secondary Registration
-Members from other patrols will have to complete a registration form to become secondary members of our patrol; there is no additional charge. Please email sar@tbsp.org for details.<br>
+Members from other patrols will have to complete a registration form to become secondary members of our patrol; there is no additional charge. Please email sar@tbsp.org for details.
 
 # SAR Pack Contents
 The idea is to travel fast and LIGHT. Here’s what your SAR ready pack should contain:

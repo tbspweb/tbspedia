@@ -9,7 +9,7 @@ TBSP recommends the following maps for patrollers. Basic map characteristics sho
   * Large enough to include surrounding peaks (For resectioning)
   * By convention, patrol maps use NAD27 CONUS
 
-[nifty waterproof maps of our patrol areas, with UTM and Lat/Long grid lines at mytopo.com.](Order)(Maps.md)
+[Order nifty waterproof maps of our patrol areas, with UTM and Lat/Long grid lines at mytopo.com.](Maps.md)
 
 ## Selecting a compass
 A good compass with declination adjustment, sighting mirror and clinometer (Suunto MC 2G or Silva Ranger Type
@@ -32,8 +32,8 @@ worry about declination again.
   *        The bearing from your location to your destination can now be read at the index pointer (centered luminous mark near the hinge of the compass).
 
 To transfer this bearing to the field, simply turn your body until the needle is centered on the orienting arrow and the
-colors match (red with red and black with black). [dark, turn your body until the luminous point on the needle lies
-between the luminous points on either side of the orienting arrow.](After) The sighting line through the mirror indicates your
+colors match (red with red and black with black). (After dark, turn your body until the luminous point on the needle lies
+between the luminous points on either side of the orienting arrow.) The sighting line through the mirror indicates your
 direction of travel.
 ## Orienting (setting) the map
 To orient your map (only necessary when in the field), follow the same procedure described above, but leave the
@@ -101,13 +101,13 @@ numbers on the map eliminate the 000m and express the distance only in kilometer
 Forget all of the superscript numbers. Henceforth, 4361000N will be referred to as 61, and 728 as 28. To learn how to
 describe your location, let's use an example from the Norden 7.5 minute map:
   *       locate the summit of Donner Peak in the middle of your Norden 7.5 minute map.
-  *       draw an imaginary north-south line from your position to the top or bottom margin of the map, and note the blue UTM grid tick numbers on either side of the point where your imaginary line intersects the map margin.  The numbers should be 31 and 32. [that while the blue grid ticks are always present, often the numbers are missing and you have to extrapolate them from nearby grid tick references. For example, at the bottom of the map, the reference to 32 is missing, and at the top, the reference to 31 is missing.](Note)
+  *       draw an imaginary north-south line from your position to the top or bottom margin of the map, and note the blue UTM grid tick numbers on either side of the point where your imaginary line intersects the map margin.  The numbers should be 31 and 32. (Note that while the blue grid ticks are always present, often the numbers are missing and you have to extrapolate them from nearby grid tick references. For example, at the bottom of the map, the reference to 32 is missing, and at the top, the reference to 31 is missing.)
   *       Do the same exercise using an east-west imaginary line to the left or right margin of the map, noting the blue grid ticks above and below the point where your imaginary line intersects the map margin. You should fall between grid ticks 54 and 55.
-  *       Now draw a line between grid tick 31 on the top and grid tick 31 on the bottom of the map. If you don't have a straight edge long enough (and you won't in the field), fold over one edge of the map and use it as a straight edge to connect the two "31" grid ticks. Be certain that the edge of the map is flat or your line will be off.  Next, do the same exercise to connect grid ticks 32, 53 and 54. [strongly suggest that for training purposes you draw the entire UTM grid on your Norden 7.5 minute map.](We)
-  *       Note that the lines you have drawn have created a square box around the Donner Peak reference point. [the future, you only have to create this "box," and it is unnecessary to draw complete lines between the grid ticks.](In) Notice that the lines you have drawn are not parallel to the edges of the map, but are slightly skewed. This is because the UTM grid system is not based upon True North, but your map is. From now on, you will focus on the "box" you have just created.
-  *        within the box draw a line, parallel to the left and right sides of the box, from the summit of Donner Peak to the nearer of the top or bottom margin of the box. [this case, the bottom margin.](In)
-  *        divide the distance along the bottom margin into ten equal parts, and record where your line intersects the box margin to the nearest tenth. You should find that your line intersected the bottom margin of the box 8 tenths of the distance from grid line 31 (the left side of the box) to grid line 32 (the right side of the box), and thus you should record 318. [is actually 31.8, but the decimal point is eliminated.](It) [using your UTM grid reader to speed this process.](Try)
-  *        next, draw a line, parallel to the top and bottom margins of the box, from the summit of Donner Peak to the nearer of the left or right margins of the box. [this case, the right margin.](In)
+  *       Now draw a line between grid tick 31 on the top and grid tick 31 on the bottom of the map. If you don't have a straight edge long enough (and you won't in the field), fold over one edge of the map and use it as a straight edge to connect the two "31" grid ticks. Be certain that the edge of the map is flat or your line will be off.  Next, do the same exercise to connect grid ticks 32, 53 and 54. (We strongly suggest that for training purposes you draw the entire UTM grid on your Norden 7.5 minute map.)
+  *       Note that the lines you have drawn have created a square box around the Donner Peak reference point. (In the future, you only have to create this "box," and it is unnecessary to draw complete lines between the grid ticks.) Notice that the lines you have drawn are not parallel to the edges of the map, but are slightly skewed. This is because the UTM grid system is not based upon True North, but your map is. From now on, you will focus on the "box" you have just created.
+  *        within the box draw a line, parallel to the left and right sides of the box, from the summit of Donner Peak to the nearer of the top or bottom margin of the box. (In this case, the bottom margin.)
+  *        divide the distance along the bottom margin into ten equal parts, and record where your line intersects the box margin to the nearest tenth. You should find that your line intersected the bottom margin of the box 8 tenths of the distance from grid line 31 (the left side of the box) to grid line 32 (the right side of the box), and thus you should record 318. (It is actually 31.8, but the decimal point is eliminated.) (Try using your UTM grid reader to speed this process.)
+  *        next, draw a line, parallel to the top and bottom margins of the box, from the summit of Donner Peak to the nearer of the left or right margins of the box. (In this case, the right margin.)
   *        again, record where the line falls to the nearest tenth. You should find that the line intersects the right box margin 3 tenths of the distance from grid line 54 to grid line 55, and thus you should record 543.
   *        then simply combine the two three digit numbers into one six-digit number, giving the east-west coordinate before the north-south coordinate. In our example 318 and 543 would produce "UTM 318543 on the 7.5 minute Norden Quadrangle." (Note that we reference the particular map because you might get a slightly different reading using a 15-minute map of the same area.)
 
@@ -141,18 +141,18 @@ Using the map marks to describe a location
 PRATICE PROBLEM 2: Try describing the location of Anderson Peak in both "Township and Range" methods. See
 answer 2 on last page of this appendix.
 
-[OF TOWNSHIP & RANGE PUBLIC LAND SUBDIVISIONS](thumb|300px|EXAMPLE)(Image:Mapsfig1.png.md)
+![EXAMPLE OF TOWNSHIP & RANGE PUBLIC LAND SUBDIVISIONS](images/Mapsfig1.png)
 
 Townships are numbered north and south of the base line. 
    Ranges are numbered east and west of a principal meridian.
    The designated abbreviation would read: Township 3 South, Range 45 East.
 
-[OF TOWNSHIP & RANGE PUBLIC LAND SUBDIVISIONS](thumb|300px|EXAMPLE)(Image:Mapsfig2a.png.md)
+![EXAMPLE OF TOWNSHIP & RANGE PUBLIC LAND SUBDIVISIONS](images/Mapsfig2a.png)
 
   *  Each Township is 6 miles square, and divided into 36 Sections. Each Section is 1 mile square.
   *  One Section contains 640 acres which can be      subdivided into smaller tracts.
 
-[OF TOWNSHIP & RANGE PUBLIC LAND SUBDIVISIONS](thumb|300px|EXAMPLE)(Image:Mapsfig2c.png.md)
+![EXAMPLE OF TOWNSHIP & RANGE PUBLIC LAND SUBDIVISIONS](images/Mapsfig2c.png)
 
   *   A Section can also be subdivided into (16)          40-acre tracts which can be designated by                cardinal directions.                                     
   *   A legal description of this parcel of 40 acres(beginning with the smallest designation first) will read: ýSE 1D4 NE 1D4, Section 36, T. 3 S R. 45 E.ý
@@ -180,8 +180,8 @@ the designation 20', which is really 120 °20'.
 Plotting approximate latitude and longitude on a topo map in the field is a relatively simple process. There are two ways
 to do it, mathematically and geometrically. Fortunately, on the maps we use the two methods are virtually identical, and
 produce a third method which we call Quick and Dirty (Q&D). We will describe the Q&D method first, but remember
-that it will only work on our maps. [Note: The easiest method involves use of the Lat/Long Scale we provided. Skip
-ahead to p. 15, subsection (d) and learn this method first, then come back and learn the other methods.](Or)
+that it will only work on our maps. (Or Note: The easiest method involves use of the Lat/Long Scale we provided. Skip
+ahead to p. 15, subsection (d) and learn this method first, then come back and learn the other methods.)
 For all three methods, first use a straight edge to transfer the point you wish to describe to the nearest horizontal and
 vertical edges of the map, as you would in calculating UTM coordinates. You must now estimate the linear distances
 between your points and the nearest lesser latitude or longitude references on the borders of the map and express those
@@ -213,9 +213,9 @@ To determine the latitude of the Peter Grubb Hut:
   *      add the 2'5" to the latitude mark you measured from (20', or 39o20'). 39o20' + 2'5" = 39o22'5".
 
 Consequently, the Peter Grubb Hut lies at latitude 39o22'5", longitude 120o22' determined by the quick and dirty method.
-[that we don't give the full designation of "latitude 39o22'5" north, longitude 120o22' west." Because everything in
+(Note that we don't give the full designation of "latitude 39o22'5" north, longitude 120o22' west." Because everything in
 the Northern Hemisphere is "north" latitude, and almost everything in the United States is "west" longitude, we drop the
-"north" and "west" designations when giving geographic coordinates in the U.S.](Note) Adding an elevation reference (in this
+"north" and "west" designations when giving geographic coordinates in the U.S.) Adding an elevation reference (in this
 case "7800 feet") is helpful but not essential.
         1.# Mathematical method
 The Q&D method is actually the mathematical method without long division calculations. With the mathematical
@@ -246,7 +246,7 @@ the same answer we obtained using the Q&D method.
  (see Figure 3): If you can remember how to do long division or have a pocket calculator with
 you, the mathematical method is quickest. However, if the calculations give you a headache, try this method.
 To determine latitude or longitude geometrically:
-  *        draw a line from the nearest reference point below your mark at an angle approximately 30o inward from the map border and approximately the distance between that point and the next highest geographical reference point. [line A-B on the map excerpt on page 13 of this appendix.](See) The exact angle is not important, nor is the length of the line, but it should be approximately the length of the distance between longitude grid ticks on your map.
+  *        draw a line from the nearest reference point below your mark at an angle approximately 30o inward from the map border and approximately the distance between that point and the next highest geographical reference point. (See line A-B on the map excerpt on page 13 of this appendix.) The exact angle is not important, nor is the length of the line, but it should be approximately the length of the distance between longitude grid ticks on your map.
   *        consider this line to be divided into 150 equal increments. The figure 150 represents the number of seconds between geographical grid ticks on a 7.5 minute map (2.5 minutes x 60 seconds/minute = 150 seconds). On the Norden 7.5 map the distance is approximately 150 mm - extremely convenient for our purposes. Consequently, measure 150 mm along your 30 ° line and mark that point (see point B on the excerpt).
   *        connect that point (B) with the next highest longitudinal mark on the border of your map (point C) by drawing a line between those two points (line B-C).
   *        now draw a line parallel to your last drawn line from your intersecting mark (point X) to the 30 ° line (see line D-X). Be certain that lines B-C and D-X are parallel.
@@ -260,16 +260,16 @@ To determine the geographic coordinates of the Peter Grubb Hut by the geometrica
 to intersect the nearby top and left borders of the map. To determine longitude (points X and Y on the map excerpt):
 
   *        draw a line from the 20' mark on the top border (just above the red section 29 number) diagonally downward to the left at an angle of approximately 30o. Draw it all the way to the left border of the map. Then measure along this line 150 mm from where you started and make a mark (point B).
-  *        connect this point with the upper left corner of the map (the next highest longitude grid tick). [line B-C.](See)
-  *       draw a line parallel to your last line from the Peter Grubb Hut mark on the top border (point X) to the 30o line.  [line D-X.](See) Be certain that lines B-C and D-X are parallel.
-  *       measure along the 30o line from the 20' mark (point A) to the point where the second parallel line meets the 30o line (point D). It should be approximately 120 mm. [familiar?](Sound)
+  *        connect this point with the upper left corner of the map (the next highest longitude grid tick). (See line B-C.)
+  *       draw a line parallel to your last line from the Peter Grubb Hut mark on the top border (point X) to the 30o line.  (See line D-X.) Be certain that lines B-C and D-X are parallel.
+  *       measure along the 30o line from the 20' mark (point A) to the point where the second parallel line meets the 30o line (point D). It should be approximately 120 mm. (Sound familiar?)
   *       120 mm x 1 second/mm = 120 seconds ÷ 60 seconds/minute = 2 minutes. Add the 2 minutes to 120o20' and you have 120o22' for Peter Grubb Hut longitude.
 
 To determine Peter Grubb Hut latitude, employ the same process:
   *       draw the 30o line upward to the right from the 20' (39o20') mark (point E) on the left border of the map.
-  *       measure off 7.5 inches on the 30o line and draw a line from that point (F) to the upper left corner of the map (point C). [line C-F.](See)
-  *       draw a line, parallel to your last drawn line, from the Peter Grubb Hut intersecting point on the left border (point Y) to the 30o line. [line G-Y.](See) Be certain that lines C-F and G-Y are parallel.
-  *       measure the distance from the 20' mark (point E) to this point on the 30o line (point G) in inches - it should be approximately 6.25 inches. [line E-G.](See)
+  *       measure off 7.5 inches on the 30o line and draw a line from that point (F) to the upper left corner of the map (point C). (See line C-F.)
+  *       draw a line, parallel to your last drawn line, from the Peter Grubb Hut intersecting point on the left border (point Y) to the 30o line. (See line G-Y.) Be certain that lines C-F and G-Y are parallel.
+  *       measure the distance from the 20' mark (point E) to this point on the 30o line (point G) in inches - it should be approximately 6.25 inches. (See line E-G.)
   *       6.25 inches x 20 seconds/inch = 125 seconds.
   *       125 seconds ÷ 60 seconds/minute = 2'5".
   *       add 2'5" to 39o20' and you get a latitude of 39o22'5".
@@ -282,7 +282,7 @@ methods to see if you can arrive at identical answers. See answer 3 on the last 
 the correct answer, please review the text and try again. This material may bend your brain, but it is extremely important
 to be able to precisely describe your position in the field.
 
-[OF LATITUDE AND LONGITUDE USING GEOMETRICAL METHOD](thumb|300px|EXAMPLE)(Image:Mapsfig3.png.md)
+![EXAMPLE OF LATITUDE AND LONGITUDE USING GEOMETRICAL METHOD](images/Mapsfig3.png)
 
         1.# Lat/Long Scale Method: Skewed Scale To Find Position
 To determine the longitude and latitude of a point using the special longitude/latitude scale, the scale cannot
@@ -307,7 +307,7 @@ for measuring distance labeled ýUSGS 7.5ý MAP SCALEý and one side for Latitud
   1.  Similar to the longitude, on the Latitude edge of the scale, each tick on the scale has a pair of two- digit numbers that stand for seconds (e.g. 00·30). Count using the pair of numbers similar to Longitude.
   1.  The latitude position is the sum of the values counted on the scale plus the value of the longitude line measured from.
 
-[OF USE OF LAT/LONG SCALE](thumb|300px|EXAMPLE)(Image:Mapsfig4.png.md)
+![EXAMPLE OF USE OF LAT/LONG SCALE](images/Mapsfig4.png)
 
 ## Position Shorthand
 Each grid coordinate system is a method for communicating a location, and that location needs to be expressed in a language the receiving party will understand. TBSP has specific guidelines for expressing positions in the coordinate system:
@@ -321,19 +321,19 @@ Each grid coordinate system is a method for communicating a location, and that l
 GPS units can be of great value in locating your current position and for route-finding. However they have their
 advantages and disadvantages, and can only supplement, not replace map and compass skills. You have to understand how it works, including the difference between the multiple coordinate systems and how to translate from one to the other. By convention, TBSP Patrol maps use the NAD 27 CONUS system, however most modern GPS units will default to the newer WGS 84 standard. This alone can result in a position error of several hundred meters.
 
-; ADVANTAGES                        
+**ADVANTAGES**
   *    Works in bad visibility when you cannot make a compass sighting                                
   *           Can be faster to get the coordinates of your location than a map and compass
   *           Can convert easily between coordinate systems (i.e. Lat/Long to UTM)                    
 
-; DISADVANTAGES
+**DISADVANTAGES**
   *  Batteries have a limited life (and life decreases  with lower temperatures ý as little as 4 hours)
   *  Does not locate you on a map or help route-finding
   * Hard to get a sense of map scale on a 2 inch screen
   *  Satellites may not be very visible (esp. in  canyons), or few satellites may give low accuracy
   * May not have a compass
 
-; NECESSARY SKILLS
+**NECESSARY SKILLS**
 If one is going to carry a GPS unit, to use it effectively one should master the following skills:
   * Basic operation (navigate through screens, changes scales, start/stop navigating, etc)
   * Set up the system, including:
@@ -349,8 +349,8 @@ If one is going to carry a GPS unit, to use it effectively one should master the
 # PRATICE PROBLEM ANSWERS
   1.   "333488 on the 7.5 minute Norden Quadrangle."
   1.   "Southwest 1/4, Southeast 1/4, Section 3, Township 16 North, Range 15 East" or, using the alternative method: "Section 3, Township 16 North, Range 15 East, at a point 2350 feet west of the eastern section boundary and 750 feet north of the southern section boundary, at about 8700 feet elevation."
-  1.   "Latitude 39°15'33", longitude 120°17'46" at about 8700 feet elevation." [we always give latitude first, and don't have to express "latitude" and "longitude".](Remember,)
+  1.   "Latitude 39°15'33", longitude 120°17'46" at about 8700 feet elevation." (Remember, we always give latitude first, and don't have to express "latitude" and "longitude".)
 
 If you missed any of these, reread the pertinent sections and try again.
 
-{{PatrolManual}}
+Back to the [Patrol Manual](Patrol_Manual.md).

@@ -25,7 +25,7 @@ The following equipment is not permitted on patrol:
   * Alpine Trekker or similar "Free heel Adapter" - Can be uncomfortable or fail under long distance travel.
 
 ## Pack
-The backpack itself should be large enough to accommodate the items mentioned below and approximately one-third of the [equipment](modular)(Appendix B: Patrol Equipment Modules.md) carried by patrollers. Packs must have a volume of at least 30 liters; appropriate size will depend on your size and how you accommodate cold weather. Enough capacity to carry the equipment on this list, your personal gear (lunch, water, etc.) and a few items of patrol gear. Packs between 30 and 40 liters are ideal. A [Black Diamond Cirque 35](http://www.blackdiamondequipment.com/en_US/ski-packs/cirque-35-BD681192_cfg.html#cgid=packs&start=1|) or  [Patagonia Snowdrifter 30L](http://www.patagonia.com/product/snowdrifter-pack-30-liters/48195.html?dwvar_48195_color=GJG&cgid=luggage-technical-packs#tile-4=&start=1&sz=24|) pack are good examples of the size and type of pack many patrollers use. Packs should have attachment points for carrying skis or snowboards. Airbag packs are not required, but some patrollers use them. If you do decide to use an airbag pack, ensure that you have ample capacity for patrol equipment.
+The backpack itself should be large enough to accommodate the items mentioned below and approximately one-third of the [modular equipment](Appendix_B__Patrol_Equipment_Modules.md) carried by patrollers. Packs must have a volume of at least 30 liters; appropriate size will depend on your size and how you accommodate cold weather. Enough capacity to carry the equipment on this list, your personal gear (lunch, water, etc.) and a few items of patrol gear. Packs between 30 and 40 liters are ideal. A [Black Diamond Cirque 35](http://www.blackdiamondequipment.com/en_US/ski-packs/cirque-35-BD681192_cfg.html#cgid=packs&start=1|) or  [Patagonia Snowdrifter 30L](http://www.patagonia.com/product/snowdrifter-pack-30-liters/48195.html?dwvar_48195_color=GJG&cgid=luggage-technical-packs#tile-4=&start=1&sz=24|) pack are good examples of the size and type of pack many patrollers use. Packs should have attachment points for carrying skis or snowboards. Airbag packs are not required, but some patrollers use them. If you do decide to use an airbag pack, ensure that you have ample capacity for patrol equipment.
 
 ## Avalanche Safety Equipment
 Patrollers, candidates and guests are required to have this equipment even if they lack specific training in its use. Patrol can supply loaner equipment of avalanche gear.
@@ -37,7 +37,7 @@ Patrollers, candidates and guests are required to have this equipment even if th
   1. Map: [Maps](Maps.md) of the area being patrolled. Included in MTR and ISP course fees, and available for purchase from TBSP.
   1. Compass: preferably one which automatically adjusts for declination such as the Silva Ranger Type 15CL or Suunto MC 1D Professional.  An integrated clinometer is also helpful for slope angle measurements.
   1. Water: At least one liter of water for personal use and to assist patients or dehydrated skiers. If sharing your bottle with others is distasteful, carry two smaller bottles, or a cup.
-  1. Food: Your lunch, power bars, etc. Emergency food for patients is found in the Stove Module. See [B: Patrol Equipment Modules](Appendix)(Appendix B: Patrol Equipment Modules.md)
+  1. Food: Your lunch, power bars, etc. Emergency food for patients is found in the Stove Module. See [Appendix B: Patrol Equipment Modules](Appendix_B__Patrol_Equipment_Modules.md)
   1. Ensolite Pad: For sitting on during breaks. Should be 3/4 length or full length.
   1. Headlamp
   1. Knife, whistle, waterproof matches/fire starter
@@ -54,7 +54,7 @@ Use jacket, bibs, poncho, etc. for layering and weatherproofing yourself. These 
 This section describes required equipment for Patrollers and Candidates. MTR and Avalanche course students, guests and Ski Alongs do not need to carry this equipment.
 
 ## Individual First Aid Kit
-Because much of the first-aid equipment we carry is contained in the Trauma Module described in [equipment](modular)(Appendix B: Patrol Equipment Modules.md), the individual patroller's first aid kit is limited to the following, which should be contained in a small organized kit such as those obtainable from Outdoor Research or Adventure Medical:
+Because much of the first-aid equipment we carry is contained in the Trauma Module described in [modular equipment](Appendix_B__Patrol_Equipment_Modules.md), the individual patroller's first aid kit is limited to the following, which should be contained in a small organized kit such as those obtainable from Outdoor Research or Adventure Medical:
   * 1 CPR mask
   * 1 space blanket
   * 6 4in x 4in non-stick sterile dressings
@@ -73,7 +73,8 @@ Because much of the first-aid equipment we carry is contained in the Trauma Modu
 
 ## Survival: Tarp
 A small tarp with grommets for keeping patients warm and dry. Included in MTR course fees. Available for purchase from NSP.
-<br>https://www.rei.com/product/407106/space-all-weather-blanket
+
+Example: <https://www.rei.com/product/407106/space-all-weather-blanket>
 
 ## Personal Sled Hauling and Rope Rescue Kit
 Equipment for pulling the portable sled and running the rope kit. The patrol offers this item at wholesale cost.
@@ -86,7 +87,7 @@ Equipment for pulling the portable sled and running the rope kit. The patrol off
 
 ## Required Equipment for Candidate Training and Patrol Refreshers
 ### Splint
-One SAM splint for OEC training. SAM splints for patient use are found in the Trauma Module (part of [equipment](modular)(Appendix B: Patrol Equipment Modules.md)).
+One SAM splint for OEC training. SAM splints for patient use are found in the Trauma Module (part of [modular equipment](Appendix_B__Patrol_Equipment_Modules.md)).
 
 
 

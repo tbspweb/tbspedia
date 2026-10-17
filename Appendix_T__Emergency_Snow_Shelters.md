@@ -16,7 +16,7 @@ The TBSP emergency shelter is designed to be a custom fit for your body. You are
 To construct the shelter:
   1. Ski pack an area about 9 x 12 feet; boot pack the area if you have time
   1. Using your skis and poles as measuring guides, dig the shelter
-  1. Using the short edge of your tarp as a guide, create the air vents with a ski pole: one vent opposite each grommet hole [THIS SHELTER MUST HAVE AT LEAST ONE UNOBSTRUCTED AIR VENT](WARNING:)
+  1. Using the short edge of your tarp as a guide, create the air vents with a ski pole: one vent opposite each grommet hole (WARNING: THIS SHELTER MUST HAVE AT LEAST ONE UNOBSTRUCTED AIR VENT)
   1. Run the 60-inch air-vent cords through the air vents
   1. Place your poles then skis over the shelter hole
   1. Using tent hitches, install 30-inch guy lines in all grommets of your tarp except those along the air-vent edge and the center grommet on the foot end of the tarp, then fasten a deadman to each guy line. You can attach a guy line and deadman to the center grommet at the foot end of the tarp, but it must be long enough to clear the excavated foot compartment of your shelter.
@@ -30,7 +30,7 @@ To construct the shelter:
 
 
 Tips:
-  1. Cut and pre-install guy lines on your tarp with tent hitches in all grommets except those along the air-vent edge [see next tip](or).
+  1. Cut and pre-install guy lines on your tarp with tent hitches in all grommets except those along the air-vent edge (or see next tip).
   1. If you use clips on your guy lines you can put all of the cords in a ditty bag and simply attach them to the tarp when they are needed.
   1. Cut 1/2 inch by 2-3 inch dowels for deadmen. Drill a center hole in each dowel. Feed the cord through the hole in the dowel, then create a figure-eight stopper knot or attach a cord lock to hold the dowel in place.  Cord locks make it easier to shorten the guy lines before placement.
   1. Make the 60-inch air-vent cords from a different color parachute cord. They should have a clip on one end and a 1/2 inch by 6-inch dowel (with a center hole) on the other, backed by a cord lock. To tension these air-vent cords push the dowel up the cord until it rests across the air-vent hole inside the shelter. Then follow with the cord lock to tension the cord and to hold the dowel in place. To exit the shelter, simply reverse this procedure.
@@ -41,4 +41,4 @@ Tips:
 ## Other snow shelters
 TBSP also instructs candidates in the construction of snow caves and other snow shelters. 
 
-{{PatrolManual}}
+Back to the [Patrol Manual](Patrol_Manual.md).

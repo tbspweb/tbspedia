@@ -1,6 +1,6 @@
 # TBSP FAQ
 
 # FAQ
-    *Q:** This is the TBSP FAQ?
+**Q:** This is the TBSP FAQ?
 
-    *A:** Yes it is.
+**A:** Yes it is.

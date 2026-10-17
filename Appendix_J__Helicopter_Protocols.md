@@ -62,4 +62,4 @@ Helicopter Safety
 • Secure loose items such as hats, clothing, stretcher sheets, and any other object light enough to be blown into the rotor blades
 
 
-{{PatrolManual}}
+Back to the [Patrol Manual](Patrol_Manual.md).

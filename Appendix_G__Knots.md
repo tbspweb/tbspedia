@@ -4,31 +4,31 @@
 Patrollers are expected to know the knots and hitches listed below. For more instructions, and to view knot-tying animations, visit www.animatedknots.com.
 
 ## Girth hitch
-![Girthhitch.png](images/Girthhitch.png)(Image:Girthhitch.png.md)
+![Girthhitch.png](images/Girthhitch.png)
 
 ## Clove hitch
-![Clovehitch.png](images/Clovehitch.png)(Image:Clovehitch.png.md)
+![Clovehitch.png](images/Clovehitch.png)
 
 ## Taut line hitch (tent hitch)
-![Tenthitch.png](images/Tenthitch.png)(Image:Tenthitch.png.md)
+![Tenthitch.png](images/Tenthitch.png)
 
 ## Prusik knot
   * Double Prusik and Triple Prusik
-![Prusik.png](images/Prusik.png)(Image:Prusik.png.md)
+![Prusik.png](images/Prusik.png)
 
 ## Double fisherman's knot
-![doublefishermans.png](images/doublefishermans.png)(Image:doublefishermans.png.md)
+![doublefishermans.png](images/doublefishermans.png)
 
 ## Figure-8 knot on a bight
-![figure8.png](images/figure8.png)(Image:figure8.png.md)
+![figure8.png](images/figure8.png)
 
 ## Figure-8 knot rewoven
-![figure8rw.png](images/figure8rw.png)(Image:figure8rw.png.md)
+![figure8rw.png](images/figure8rw.png)
 
 ## Overhand knot
-![overhand.png](images/overhand.png)(Image:overhand.png.md)
+![overhand.png](images/overhand.png)
 
 ## Water knot
-![WaterKnot.png](images/WaterKnot.png)(Image:WaterKnot.png.md)
+![WaterKnot.png](images/WaterKnot.png)
 
-{{PatrolManual}}
+Back to the [Patrol Manual](Patrol_Manual.md).

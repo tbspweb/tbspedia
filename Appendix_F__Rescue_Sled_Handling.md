@@ -22,21 +22,21 @@ Patrollers and candidates must understand the material depicted in this appendix
 thoroughly covered during field training.
 
 
-; Moving Toboggan Belay, Wide Trail :
+**Moving Toboggan Belay, Wide Trail**
               Flat/Rolling                   /                  Uphill                  /                  Downhill
-[450px](Image:Sledfig1.png.md)
+![Moving toboggan belay on a wide trail](images/Sledfig1.png)
 
 
 
-; Moving Tobbogan Belay, Narrow Trail :
+**Moving Tobbogan Belay, Narrow Trail**
               Flat/Rolling             /                        Uphill                   /                 Downhill
-[450px](Image:Sledfig2.png.md)
+![Moving toboggan belay on a narrow trail](images/Sledfig2.png)
 
 
 
-; Anchored Belay (downhill) :
+**Anchored Belay (downhill)**
                              Hand Belay     /                                                   Carabiner Brake
-[450px](Image:Sledfig3.png.md)
+![Anchored downhill belay](images/Sledfig3.png)
 
 # LOW-ANGLE ROPE-RESCUE SYSTEMS FOR USE ON SNOW
 This document discusses the construction of low-angle (15° to 40°) rope-rescue systems used on snow. It is not intended
@@ -56,22 +56,21 @@ This discussion assumes that each member of the rescue team carries the followin
   *              Two locking carabiners
 
 ## Terminology
-{{missingimages}}
-; Horizontal 3-to-1 Raising System: a two-anchor point, three-pulley system that permits hauling perpendicular to the fall line; the Z is rigged perpendicular to the fall line
-; Vertical 3-to-1 Raising System: a single-anchor point, three pulley system that permits hauling perpendicular or parallel to the fall line; the Z is rigged parallel to the fall line
-; 1-to-1 Lowering System: a system that permits lowering of the rescue sled down the fall line
-; Anchor Point: the tree or other immovable object to which the system is anchored
-; Anchor Webbing:1' webbing in 12' (yellow) and 15' (blue) lengths
-; Anchor: the combination of anchor point and anchor webbing to which a system is attached
-; Anchor Pulley: a pulley attached to an anchor
-; Prusik-Minding Pulley (PMP) : an optional type of anchor pulley attached to the first anchor point that prevents the safety prusiks from being swallowed by the pulley
-; Haul Pulley : a pulley attached to a haul prusik loop
-; Safety Prusik : a prusik hitch that acts as a rope stopper in the event of system failure
-; Haul Prusik : a prusik hitch that pulls on the haul rope during raising
-; Descender: a belay device such as a brake bar rack, Sticht plate, rescue-: or ATC that is used to control the rope during lowering
-; Load-Releasing System: a system consisting of three carabiners and a 1' x 48: sewn webbing sling attached to the tandem safety prusiks to facilitate changing the direction of a system
-; Mariner's Knot: the knot used in the load-releasing system 
-; Lock-Off Carabiner: a carabiner used to lock the free end of the mariner:s knot to the anchor carabiner
+- **Horizontal 3-to-1 Raising System**: a two-anchor point, three-pulley system that permits hauling perpendicular to the fall line; the Z is rigged perpendicular to the fall line
+- **Vertical 3-to-1 Raising System**: a single-anchor point, three pulley system that permits hauling perpendicular or parallel to the fall line; the Z is rigged parallel to the fall line
+- **1-to-1 Lowering System**: a system that permits lowering of the rescue sled down the fall line
+- **Anchor Point**: the tree or other immovable object to which the system is anchored
+- **Anchor Webbing**: 1' webbing in 12' (yellow) and 15' (blue) lengths
+- **Anchor**: the combination of anchor point and anchor webbing to which a system is attached
+- **Anchor Pulley**: a pulley attached to an anchor
+- **Prusik-Minding Pulley (PMP)**: an optional type of anchor pulley attached to the first anchor point that prevents the safety prusiks from being swallowed by the pulley
+- **Haul Pulley**: a pulley attached to a haul prusik loop
+- **Safety Prusik**: a prusik hitch that acts as a rope stopper in the event of system failure
+- **Haul Prusik**: a prusik hitch that pulls on the haul rope during raising
+- **Descender**: a belay device such as a brake bar rack, Sticht plate, rescue-: or ATC that is used to control the rope during lowering
+- **Load-Releasing System**: a system consisting of three carabiners and a 1' x 48: sewn webbing sling attached to the tandem safety prusiks to facilitate changing the direction of a system
+- **Mariner's Knot**: the knot used in the load-releasing system
+- **Lock-Off Carabiner**: a carabiner used to lock the free end of the mariner:s knot to the anchor carabiner
 
 ## TBSP Rope-Rescue Module
 The TBSP Rope-Rescue Module contains all equipment required to construct a horizontal or vertical 3:1 raising system
@@ -246,4 +245,4 @@ the extra webbing or rope. If possible, the patient should also be provided with
 
 Belay commands are given (1) if a separate belay line is used in raising mode, (2) during lowering, (3) when locking off to switch direction of system or (4) when resetting in raising mode
 
-{{PatrolManual}}
+Back to the [Patrol Manual](Patrol_Manual.md).

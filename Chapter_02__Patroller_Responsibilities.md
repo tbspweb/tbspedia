@@ -12,14 +12,14 @@ free. The latest version will be available online at: http://www.tbsp.org/.
 Patrol days are assigned by lottery in November around the Operations refresher. 
 
   1. Each day you patrol counts as one day
-  1.* Patrol credit is not given for patrollers not on the Mountain Manager report
-  1.* Patrols cancelled because of road closure or lack of snow count as one day
+     * Patrol credit is not given for patrollers not on the Mountain Manager report
+     * Patrols cancelled because of road closure or lack of snow count as one day
   1. Two Refresher days, in addition to the OEC refresher
-  1.* Operations Refresher
-  1.* On-the-Hill Refresher
-  1.* If you miss either/both the Operations or On-The-Hill Refresher, you can make-up by attending either of the MTR Field Days, Avy Field Days, or Intro to Ski Patrol as a student.
+     * Operations Refresher
+     * On-the-Hill Refresher
+     * If you miss either/both the Operations or On-The-Hill Refresher, you can make-up by attending either of the MTR Field Days, Avy Field Days, or Intro to Ski Patrol as a student.
   1. Each patrol instructor day counts as one day
-  1.* You must have permission of the Patrol Director or Instructor of Record to act as a patrol instructor.
+     * You must have permission of the Patrol Director or Instructor of Record to act as a patrol instructor.
 
 Changes in patrolling or training dates must be requested at least one week in advance from the Mountain Manager. Patrollers must find a replacement of comparable status, i.e., patroller for patroller, map & compass instructor for map & compass instructor.
 
@@ -35,10 +35,10 @@ Early in 1992, two skiers perished in the Incline Creek drainage (just south of 
 ## Conditioning
 Patrolling involves strenuous exercise. Candidates and patrollers are expected to be in reasonably good physical condition. You should be able to ski all day with a full patrol pack without much rest. Snowboard patrollers must be in good to excellent physical condition, as they must be capable of keeping reasonable pace on climbs and flats while wearing snowshoes. We do take breaks, but situations may arise where we won't have time to rest. 
 ## Equipment
-Candidates and patrollers are expected to provide appropriate skis or snowboard, poles and boots, and a backpack containing the items listed in [PatrolManual/Appendix_A](PatrolManual/Appendix_A.md) and capable of carrying a fair share of the modular pack units described in [PatrolManual/Appendix_B](PatrolManual/Appendix_B.md). In addition, snowboard patrollers must provide snowshoes or short skis for uphill and flatland travel.
+Candidates and patrollers are expected to provide appropriate skis or snowboard, poles and boots, and a backpack containing the items listed in [Appendix A: Required Personal Equipment](Appendix_A__Required_Personal_Equipment.md) and capable of carrying a fair share of the modular pack units described in [PatrolManual/Appendix_B](Appendix_B__Patrol_Equipment_Modules.md). In addition, snowboard patrollers must provide snowshoes or short skis for uphill and flatland travel.
 
 ## Proficiency
-In order to qualify as a patroller, candidates must demonstrate proficiency in the skills listed in [PatrolManual/Appendix_E](PatrolManual/Appendix_E.md). It is hoped (but not required) that patrollers will continue to improve skills and knowledge by becoming senior or certified patrollers, OEC instructors, patrol instructors, mountaineering or avalanche instructors and patrol, section, region or division officers. 
+In order to qualify as a patroller, candidates must demonstrate proficiency in the skills listed in [Appendix E: Proficiency Requirements](Appendix_E__Proficiency_Requirements.md). It is hoped (but not required) that patrollers will continue to improve skills and knowledge by becoming senior or certified patrollers, OEC instructors, patrol instructors, mountaineering or avalanche instructors and patrol, section, region or division officers. 
 
 # Patrol Dues
 Annual patrol dues are used for administrative expenses. 
@@ -59,25 +59,25 @@ Our patrol relies on grants to provide funds for the purchase of expensive equip
 
 Numerous manufacturers and retailers give special discounts to members of our patrol. Consider recommending and patronizing these companies, as they produce quality equipment and have gone out of their way to support our efforts. 
 
-  *2014 Clif Bar Grant ($5,000 for gear garage)
-  *2008 Grants
-    *Chevron Corporation
-    *VF Outdoors/The North Face
-  *1995 Grantors
-    *Alpine Winter Foundation ($7,632 for equipment)
-  *1994 Grantors
-    *Alpine Winter Foundation ($5,000 for equipment)
-  *1993 Grantors
-    *Alpine Winter Foundation ($5,000 for equipment)
-  *1992 Grantors
-    *Alpine Winter Foundation ($6,584.26 for equipment)
-    *Anonymous ($1,000 for equipment)
-    *REI Citrus Heights ($100 in merchandise)
-    *REI Berkeley ($100 in merchandise)
+  * 2014 Clif Bar Grant ($5,000 for gear garage)
+  * 2008 Grants
+    * Chevron Corporation
+    * VF Outdoors/The North Face
+  * 1995 Grantors
+    * Alpine Winter Foundation ($7,632 for equipment)
+  * 1994 Grantors
+    * Alpine Winter Foundation ($5,000 for equipment)
+  * 1993 Grantors
+    * Alpine Winter Foundation ($5,000 for equipment)
+  * 1992 Grantors
+    * Alpine Winter Foundation ($6,584.26 for equipment)
+    * Anonymous ($1,000 for equipment)
+    * REI Citrus Heights ($100 in merchandise)
+    * REI Berkeley ($100 in merchandise)
 
 # Patroller Benefits
 Patroller (and candidate) benefits include worker's compensation medical benefits provided by the Forest Service as part of our volunteer agreements. Such benefits are normally not available to NSP volunteers who patrol at Alpine resorts. Benefits also include membership in the National Ski Patrol, which includes the Patroller magazine, and ability to enroll in NSP course at membership rates. Patrollers who have paid dues for the current season and have fulfilled their eight-day patrolling commitment for the previous season are also eligible for pro-deal equipment discounts. 
 
 Candidates are eligible for pro-deal discounts after completion of their initial season provided they complete all of their candidate responsibilities, including all training and patrolling dates. Patrollers or candidates who choose to participate in search and rescue operations under the auspices of county sheriffs or other agencies affiliated with the California Office of Emergency Services (OES) are eligible for certain insurance benefits provided by OES. 
 
-{{PatrolManual}}
+Back to the [Patrol Manual](Patrol_Manual.md).

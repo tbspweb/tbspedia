@@ -175,4 +175,4 @@ DIRECTIONS: North on NV Hwy 431 to US 395 northbound to I-80 westbound. Exit 13 
 ```
 
 
-{{PatrolManual}}
+Back to the [Patrol Manual](Patrol_Manual.md).

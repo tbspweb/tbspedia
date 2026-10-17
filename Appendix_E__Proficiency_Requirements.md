@@ -1,6 +1,6 @@
 # Appendix E: Proficiency Requirements
 
-    *PROFICIENCY REQUIREMENTS**
+**PROFICIENCY REQUIREMENTS**
 Candidates or transferring patrollers are expected to demonstrate proficiency in the following skill areas before they will be registered as basic Nordic patrollers: 
  
 # Skiing/Snowboarding Skills

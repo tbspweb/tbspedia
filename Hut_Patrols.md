@@ -1,6 +1,6 @@
 # Hut Patrols
 
-    *DRAFT** --[GregMarsden](User:GregMarsden.md) ([talk](User talk:GregMarsden.md)) 11:32, 16 January 2015 (PST)
+**DRAFT** (January 2015)
 
 
 # Hut Patrols

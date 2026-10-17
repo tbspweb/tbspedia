@@ -1,7 +1,7 @@
 # Appendix C: Cache Equipment
 
 # Cache Contents
-This section describes Fixed caches. See the [Equipment](Modular)(Modular Equipment.md) page for information on Patrol-carried equipment.
+This section describes Fixed caches. See the [Modular Equipment](Appendix_B__Patrol_Equipment_Modules.md) page for information on Patrol-carried equipment.
 
 ## TREE CACHE CONTENTS (Castle Pass and Round Valley)
 Inside lockbox:
@@ -130,4 +130,4 @@ fit all patients, (2) clean and (3) packed in plastic bags to keep it dry:
   * 1 large roll of duct tape
 
 
-{{PatrolManual}}
+Back to the [Patrol Manual](Patrol_Manual.md).

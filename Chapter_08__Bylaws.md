@@ -109,4 +109,4 @@ Patrol Director: Mike Kelly
 
 Bylaws Committee: Annette Ausseresses, John Bidwell, Norman Bookstein, Chris Brown, Peter Sporleder, and Karla Rosen.
 
-{{PatrolManual}}
+Back to the [Patrol Manual](Patrol_Manual.md).

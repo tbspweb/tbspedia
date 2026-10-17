@@ -3,10 +3,10 @@
 
 
 Patrollers must be familiar with each of the following forms, which must be carried while patrolling, and are carried in
-the [Module](Forms)(Modular Equipment.md). It is the responsibility of the [Manager](Mountain)(Mountain Manager.md) to see that Patrol Leaders are supplied with the
+the [Forms Module](Appendix_B__Patrol_Equipment_Modules.md). It is the responsibility of the [Mountain Manager](Mountain_Manager.md) to see that Patrol Leaders are supplied with the
 proper forms.
 
-Documentation of our patrol activities is extremely important for a number of reasons. Possible legal ramifications of first-aid treatment are obvious, but there are additional reasons for proper documentation. For example, the Forest Service needs to know what we are doing and how many hours we devote to patrol activities. This may help the Forest Service justify future expenditures on our behalf. Obtaining thorough information from a person reporting someone missing is critical for search and rescue operations. Patrollers should become familiar with each of the forms. [Read filed patrol reports here](http://beacon.tbsp.org/managers)(http://beacon.tbsp.org/managers Read filed patrol reports here.md).
+Documentation of our patrol activities is extremely important for a number of reasons. Possible legal ramifications of first-aid treatment are obvious, but there are additional reasons for proper documentation. For example, the Forest Service needs to know what we are doing and how many hours we devote to patrol activities. This may help the Forest Service justify future expenditures on our behalf. Obtaining thorough information from a person reporting someone missing is critical for search and rescue operations. Patrollers should become familiar with each of the forms. [Read filed patrol reports here](http://beacon.tbsp.org/managers).
 
 ## Patrol Report
 This is the most important form.
@@ -34,4 +34,4 @@ until the Sheriff arrives, but in the event the reporting individual leaves, we 
 Sheriff. The original is given to the Sheriff, and a copy is attached to the Patrol Report.
 The most current versions of these forms will be found in the Forms Module.
 
-{{PatrolManual}}
+Back to the [Patrol Manual](Patrol_Manual.md).

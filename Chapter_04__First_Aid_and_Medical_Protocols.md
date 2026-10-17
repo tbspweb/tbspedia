@@ -14,8 +14,8 @@ As mentioned above, transportation of the injured is by sled, snowmobile or heli
 This document contains information regarding the blood-borne pathogens, which produce AIDS and Hepatitis B.
 All patrollers and candidates must be familiar with this material and with the patrol's infection control procedures. Avoid exposure by following proper protection protocols. If you are exposed, you should:  As soon as possible, wash and remove any visible fluid  Ask the ambulance or helicopter what hospital they are going to, and let them know you've been exposed.
 Call or go to the hospital emergency room, explain the situation, and find out if the patient has tested positive.  Get tested.  Document the exposure on the Incident Report form, and Daily Operations Log.
-[Infection Protocols, NIH, Part 1](thumb|150px|HepB)(Image:Hepb1.png.md)
-[Infection Protocols, NIH, Part 2](thumb|150px|HepB)(Image:Hepb2.png.md)
+![HepB Infection Protocols, NIH, Part 1](images/Hepb1.png)
+![HepB Infection Protocols, NIH, Part 2](images/Hepb2.png)
 
 # Patrol Specific Outdoor Emergency Care (OEC) Protocols
 Upon successful completion of the Outdoor Emergency Care (OEC) Course, patrol members are certified as OEC
@@ -89,4 +89,4 @@ Using a combination of ski poles, cravats and ensolite closed cell foam pads to 
 Use of makeshift devices for spinal immobilization (backboards) is not permitted.
 
 
-{{PatrolManual}}
+Back to the [Patrol Manual](Patrol_Manual.md).

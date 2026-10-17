@@ -9,15 +9,15 @@ Logos may also be available at http://docs.tbsp.org/browse.php?fFolderId=13
 # Logos
   * Image with full text, suitable for external publicity
 
-[logo1.gif](Image:TBSP)(Image:TBSP logo1.gif.md)
+![TBSP logo with full text](images/TBSP%20logo1.gif)
 
   * Image with TBSP only, for internal documents
 
-![Tbsplogo.png](images/Tbsplogo.png)(Image:Tbsplogo.png.md)
+![Tbsplogo.png](images/Tbsplogo.png)
 
   * High quality print image
 
-  *to be uploaded*
+  * to be uploaded*
 
   * Forest service logos, Humbolt Toiyabe
 

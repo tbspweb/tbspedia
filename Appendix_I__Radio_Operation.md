@@ -1,7 +1,7 @@
 # Appendix I: Radio Operation
 
 # BENDIX-KING RADIO DESCRIPTION AND OPERATION
-[14-Channel Radio (EPH series)](thumb|300px|Bendix-King)(Image:Radiobk.png.md)
+![Bendix-King 14-Channel Radio (EPH series)](images/Radiobk.png)
 
 ## VOLUME AND SQUELCH KNOBS
  To turn the radio on, rotate the volume knob to the right (clockwise). Additional rotation to the right increases the
@@ -28,13 +28,13 @@ The following is a typical channel setup pre-programmed for our Bendix/King radi
 |Priority
 
 |1
-|Tahoe NF Fire Net [1,5,6,7](tones)
+|Tahoe NF Fire Net (tones 1,5,6,7)
 |By permission only
 |_
 |_
 
 |2
-|Tahoe NF Net [1,5,6,7](tones): USFS dispatcher, Grass Valley
+|Tahoe NF Net (tones 1,5,6,7): USFS dispatcher, Grass Valley
 |All normal communications with the Forest Service by patrols operating in CA
 |X
 |X
@@ -64,13 +64,13 @@ The following is a typical channel setup pre-programmed for our Bendix/King radi
 |_
 
 |7
-|Calif. Dept. of Forestry (CDF) Net [6,7](tones)
+|Calif. Dept. of Forestry (CDF) Net (tones 6,7)
 |Other rescue agency
 |_
 |_
 
 |8
-|Humboldt-Toiyabe NF Net [1](tone): USFS dispatch in Minden, NV
+|Humboldt-Toiyabe NF Net (tone 1): USFS dispatch in Minden, NV
 |All normal communications with the Forest Service by patrols operating in Nevada (Tahoe Meadows and Galena Crk)
 |X
 |_
@@ -117,10 +117,10 @@ The following is a typical channel setup pre-programmed for our Bendix/King radi
  you must select one of several repeaters, which are identified by "tones." This allows communication with others who
  are not within line-of-sight. The four we use are:
 
-  *            Tone 1 (Mt. Rose repeater) [tone for all areas](primary)
-  *            Tone 5 (Grouse Ridge repeater) [at CP](use)
-  *            Tone 6 (Babbitt Peak repeater) [at CP, MP and PC](use)
-  *            Tone 7 (Squaw Peak repeater) [at CP, MP and PC](use)
+  *            Tone 1 (Mt. Rose repeater) (primary tone for all areas)
+  *            Tone 5 (Grouse Ridge repeater) (use at CP)
+  *            Tone 6 (Babbitt Peak repeater) (use at CP, MP and PC)
+  *            Tone 7 (Squaw Peak repeater) (use at CP, MP and PC)
   *            (Refer to the radio card inside TBSP radio pouches for a map showing these locations.)
 
  To use a repeater, you must select the desired tone by pressing the corresponding button on the keyboard, and when
@@ -135,7 +135,7 @@ Toiyabe National Forest dispatcher at Minden (NV), using the repeater on Mt. Ros
 that your channel selector is set to Ch 8, and then you press '1' on the keyboard; the display shows 'Ch 8 1'.
 
           Nordic 20, using Ch 8, tone 1: "Minden, Nordic 20, tone 1'
-          Minden would respond: "Minden" ["Nordic 20, Minden"](or)
+          Minden would respond: "Minden" (or "Nordic 20, Minden")
           Nordic 20 would then continue the communication.
 
 Note that Nordic 20 uses the same order of call signs as one would use for names in a regular phone call (e.g. 'Hi Tom,
@@ -144,7 +144,7 @@ In a second example, you are the Patrol Leader at Castle Peak (Nordic 10) and ar
 dispatcher at Grass Valley, using the repeater on Mt. Rose. You select Ch 2, and press '1' on the keyboard; the display
 shows 'Ch 2 1'.
           Nordic 10, using Ch 2, tone 1: "Grass Valley, Nordic 10, tone 1"
-          Grass Valley would respond: "Grass Valley" ["Nordic 10, Grass Valley"](or)
+          Grass Valley would respond: "Grass Valley" (or "Nordic 10, Grass Valley")
           Nordic 10 would then continue the communication.
 For a third example, you are a patroller at Pole Creek (Nordic 42) and are calling the Mountain Manager (Nordic 2), who
 is on patrol at Castle Peak. Not surprisingly, you discover you cannot raise the MM with channel 5, so you switch to
@@ -153,10 +153,10 @@ tone 7 (Squaw Peak) instead. You press '7' on the keyboard; the display shows 'C
           Nordic 42, using Ch 2, tone 7: 'Nordic 2, Nordic 42, tone 7'
           The Mountain Manager receives this and, realizing that Nordic 42 must be using Ch 2 because of the reference
                to a tone, turns PRIORITY off (see next section), selects Ch 2, and enters '7' on the keyboard.
-          MM, using Ch 2, tone 7: 'Nordic 2' ["Nordic 42, Nordic 2"](or)
+          MM, using Ch 2, tone 7: 'Nordic 2' (or "Nordic 42, Nordic 2")
           Nordic 42 then continues the communication.
 In areas of poor radio transmission, it may be necessary to try several repeaters before you connect with one. You can
-tell you have hit a repeater when you momentarily depress the talk switch and hear feedback [a squelch tail](called) from
+tell you have hit a repeater when you momentarily depress the talk switch and hear feedback (called a squelch tail) from
 the repeater. This will be demonstrated in the field.
 
 ## PRIORITY AND SCAN MODES
@@ -183,7 +183,7 @@ intended communications until the frequency is cleared to "Resume Normal Radio T
 someone use the term "Emergency Traffic," stay off the radio until the frequency has been cleared.
 
 # ICOM RADIO DESCRIPTION AND OPERATION
-[Submersible Handheld](thumb|300px|ICOM)(Image:Radioicom.png.md)
+![ICOM Submersible Handheld](images/Radioicom.png)
 
 ## GENERAL
 The ICOM works on the same principles as the BK with the following differences:
@@ -227,8 +227,6 @@ Here's how to perform all the basic tasks during patrol:
   * Return to shed, and charge radio/battery and put away radio harness - The ICOM radios must be seated properly (against back of charger cup) to accept a charge. Charging light will come on (orange = rapid charging; green = trickle charging) when radio is properly seated. No light = not seated.
 
 ## ICOM RADIO CHANNEL SUMMARY
-{{badformat}}
-
  class="wikitable"
 
 | Order & Abbrev
@@ -314,22 +312,22 @@ Here's how to perform all the basic tasks during patrol:
 
 
            Humboldt-Toiyabe NF          All comm with
-   6th     Net [1 at Slide Mt.](tone):  Forest Service by
+   6th     Net (tone 1 at Slide Mt.):  Forest Service by
 MINDN-     USFS dispatcher in          patrols operating                           6        6
                                                           8
    T1      Minden, NV.                  in NV (Tahoe
                                           Meadows).
    7th     Lake Tahoe Basin Mgmt        Backup for BK
-LTBMU-     Unit (LTBMU) Net [Ch. 8                                 6        6
+LTBMU-     Unit (LTBMU) Net (tone Ch. 8                                 6        6
                                                           6
-   T6      6 at Babbit Peak](tone)
+   T6      6 at Babbit Peak)
    8th     TNSAR ý Placer Search         Other rescue
  GRT_      and Rescue (SAR)                 agency.                                                6       6
                                                           9
  RACE      Repeater, Mt. Pluto
    9th     CDF Truckee Fire Net
                                                          10               6                                6
-CDF-T7     [7 at Donner Pk](Tone)
+CDF-T7     (Tone 7 at Donner Pk)
   10th     White Fire I                  Other rescue
                                                                           6                 6              6
 WFIRE-1                               agency,helicopter.
@@ -340,9 +338,9 @@ WFIRE-2                               agency,helicopter.
                                                          11               6                 6              6
 WFIRE-3                               agency,helicopter.
   13th     NOAA Weather                                  14
-Not Used   Tahoe NF Fire Net [By permission
+Not Used   Tahoe NF Fire Net (tones By permission
                                                           1
-           1,5,6,7](tones)                          only
+           1,5,6,7)                          only
 Not Used Donner Summit Fire
                                                           3
            Dept. (DSFD) Net
@@ -351,7 +349,7 @@ Not Used Donner Summit Fire
            Dept. (DSFD) Local
 Not Used Calif. Dept. of Forestry
                                                           7
-           (CDF) Net [6,7](tones)
+           (CDF) Net (tones 6,7)
 Not Used Search and Rescue (SAR)         During SAR
                                                          12
            (Washoe Red)                 missions only.
@@ -366,6 +364,6 @@ Abbreviations: CP= Castle Peak, TM = Tahoe Meadows, GR = Great Race, BK = Bendix
   SAR, SAR = Search and Rescue, NF= National Forest
 
 ## RADIO FREQUENCIES
-Radio frequencies can be found in the documentation at [Docs](TBSP)(TBSP Docs.md).
+Radio frequencies can be found in the documentation at TBSP Docs.
 
-{{PatrolManual}}
+Back to the [Patrol Manual](Patrol_Manual.md).

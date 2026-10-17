@@ -5,11 +5,8 @@
 It's very important to review avalanche dangers 
 
 ## The Munter Scale
-[3x3 Avalanche Risk Reduction Chart](thumbnail|Munter)(Image:Avy Aware Route Planning 46.png.md)
+![Munter 3x3 Avalanche Risk Reduction Chart](images/Avy%20Aware%20Route%20Planning%2046.png)
 Description of the Munter Scale goes here.
 
 ## Published Avalanche Bulletins
 [Daily Avalanche Forecasts for the Central Sierra](http://sierraavalanchecenter.org/).
-
-[Planning](Route)(Category:Avalanche Safety.md)
-[Safety](Category:Snow)(Category:Snow Safety.md)

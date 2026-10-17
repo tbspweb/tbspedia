@@ -1,7 +1,5 @@
 # Candidate Liaison
 
-[Officers](Category:)(Category: Officers.md)
-
 The Candidate Liaison is the face of the patrol for new candidates. Responsible for 
 advocating on behalf of candidate and ensuring that candidates understand the training
 schedule, the role of Liaison is to make the candidate year friendly and understandable.

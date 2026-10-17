@@ -48,17 +48,17 @@ Candidates without OEC training are required to have a current certification in 
 
 For candidates who begin their candidate training before completing the National Ski Patrol's Outdoor Emergency Care course, their first candidate season consists of 14 training days.  Candidates take the OEC course during the fall and complete their training during their second season with the patrol.  The second season will consist of eight training and patrol days.
 
-    *First season:**
+**First season:**
 
   * 3-4 Candidate Patrol Days
   * Mountain Travel and Rescue (1 day classroom, 2 day overnight)
   * Avalanche Level 1 (1 classroom, 2 field days)
   * Any four patrol days
 
-    *Off-season:**
+**Off-season:**
   * OEC course
 
-    *Second season:**
+**Second season:**
 
   * Operations and On-The-Hill refresher
   * OEC Clinic 

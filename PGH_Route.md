@@ -1,71 +1,24 @@
 # PGH Route
 
 # Simple GPS route to Peter Grubb Hut
-[Grubb Hut|Peter Grubb Hut](frame|alt=Peter)(Image:PGH-TBSP.jpg.md)
+![Peter Grubb Hut](images/PGH-TBSP.jpg)
 
 
- class="wikitable" width= 500 
+| GPS Name | Latitude | Longitude | Elevation | UTM |
+|---|---|---|---|---|
+| 0 (CPTH) | 39°20.373' N | 120°21.005' W | 7197 ft. | 283578 |
+| 1 | 39°20.449' N | 120°20.839' W | 7264 ft. | 286579 |
+| 2 | 39°20.672' N | 120°21.069' W | 7307 ft. | 282583 |
+| 3 | 39°21.024' N | 120°21.567' W | 7531 ft. | 275589 |
+| 4 (CPASS) | 39°21.490' N | 120°21.914' W | 7899 ft. | 270598 |
+| 5 | 39°21.658' N | 120°21.800' W | 7994 ft. | 271601 |
+| 6 | 39°21.892' N | 120°21.917' W | 7988 ft. | 269605 |
+| 7 (PGHUT) | 39°22.068' N | 120°22.053' W | 7821 ft. | 267609 |
 
-	! GPS Name	
-	! Latitude		
-	! Longitude		
-	! Elevation		
-	! UTM
-
-	|0 (CPTH)		
-	|39°20.373' N	
-	|120°21.005' W		
-	|7197 ft.			
-	|283578
-
-	|1				
-	|39°20.449' N		
-	|120°20.839' W		
-	|7264 ft.			
-	|286579
-
-	|2				
-	|39°20.672' N		
-	|120°21.069' W		
-	|7307 ft.			
-	|282583
-
-	|3				
-	|39°21.024' N		
-	|120°21.567' W		
-	|7531 ft.			
-	|275589
-
-	|4 (CPASS)		
-	|39°21.490' N		
-	|120°21.914' W		
-	|7899 ft.			
-	|270598
-
-	|5				
-	|39°21.658' N		
-	|120°21.800' W		
-	|7994 ft.			
-	|271601
-
-	|6				
-	|39°21.892' N		
-	|120°21.917' W		
-	|7988 ft.			
-	|269605
-
-	|7 (PGHUT)		
-	|39°22.068' N		
-	|120°22.053' W		
-	|7821 ft.			
-	|267609
-
-
-[NAD83/WGS84]
+Datum: NAD83/WGS84
 
 # GPX File
-```
-
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" version="1.0"
   creator="TOPO! 4.x http://maps.nationalgeographic.com/topo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"

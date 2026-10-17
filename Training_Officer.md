@@ -1,7 +1,5 @@
 # Training Officer
 
-[Officers](Category:)(Category: Officers.md)
-
 # Training Officer
 The training officer is responsible for the training of candidates and for the upkeep of current patroller skills. The training officer also helps recruit new instructors for Patrol disciplines like OEC and Avy, and ensures proper coverage of skills. This officer is also responsible for sending out the post-instruction course evaluations to asses course quality and student learning.
 

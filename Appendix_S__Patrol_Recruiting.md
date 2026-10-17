@@ -4,7 +4,7 @@
 Tahoe Backcountry Ski Patrol is in search of eager candidates interested in join the patrol. 
 
 ## Ski Along With Us
-[Patroller rips the powder on the East slope of Castle.](thumb|right|300px|TBSP)(Image:Markrip.jpg.md) The best way to get to know Tahoe Backcountry? Ski Along with us! TBSP invites members of the public interested in joining the patrol to come for a "Ski-Along" day during any regular patrol day.
+![TBSP Patroller rips the powder on the East slope of Castle.](images/Markrip.jpg) The best way to get to know Tahoe Backcountry? Ski Along with us! TBSP invites members of the public interested in joining the patrol to come for a "Ski-Along" day during any regular patrol day.
 
 Ski Along requests are subject to the discretion of the Mountain Manager. We are able to provide Ski Alongs to prospective patrol candidates on most days when we patrol, but request at least 5 days advance notice.
 
@@ -32,7 +32,7 @@ Ski Alongs should be requested by filling out the form at [www.tbsp.org/skialong
 ## Required Personal Equipment
 Accompanying a backcountry ski patrol will require 6-10 miles of cross country and 1500-2000' of elevation gain and loss, and your equipment should be capable of doing this. We recommend sturdy downhill skis with AT or telemark bindings, or a split board. We regret that we cannot accomodate NNN or "cross country" skis on patrol.
 
-Please consult the Patrol Manual for a complete listing of required equipment, including required avalanche equipment, that you will be expected to bring: [A: Required Personal Equipment](Appendix)(Appendix A: Required Personal Equipment.md).
+Please consult the Patrol Manual for a complete listing of required equipment, including required avalanche equipment, that you will be expected to bring: [Appendix A: Required Personal Equipment](Appendix_A__Required_Personal_Equipment.md).
 
 # Candidate Training
 New members of TBSP pass through a candidate program before becoming members of the patrol. As part of this process, you will be certified in:
@@ -48,4 +48,4 @@ This training program can be completed in either one or two seasons:
   * We also welcome patrollers transferring to our patrol.  Transfer patrollers with appropriate NSP certification can be waived out of the MTR and Avalanche courses but are expected to participate in the ISP course during their candidate season.
 
 Current certification in two-rescuer CPR (Red Cross CPR for the Professional Rescuer or equivalent) is a prerequisite for all candidates.
-{{PatrolManual}}
+Back to the [Patrol Manual](Patrol_Manual.md).

@@ -10,31 +10,27 @@ Welcome to TBSPedia, the online resource for the Tahoe Backcountry Ski Patrol an
 
 ## Tahoe Backcountry Ski Patrol
 
-- [About Tahoe Backcountry Ski Patrol](/tbspedia/About_TBSP) - Learn more about the patrol and our activities.
-- [TBSP in the News](/tbspedia/Press_and_Media) - News articles and press clippings about Tahoe Backcountry Ski Patrol.
-- [Patrol Manual](/tbspedia/PatrolManual) - Read up on the policies and protocols of the Tahoe Backcountry Ski Patrol.
+- [Patrol Manual](Patrol_Manual.md) - Read up on the policies and protocols of the Tahoe Backcountry Ski Patrol.
 
 ## Joining the Patrol
 
-- [Join the Patrol](/tbspedia/TBSP_Introduction) - Introduction to the Tahoe Backcountry Ski Patrol! Instructions for prospective candidates.
-- [Ski-Along](/tbspedia/SkiAlong) - Schedule an on-the-snow introduction to backcountry patrolling.
+- [Join the Patrol](TBSP_Introduction.md) - Introduction to the Tahoe Backcountry Ski Patrol! Instructions for prospective candidates.
+- [Ski-Along](Appendix_S__Patrol_Recruiting.md) - Schedule an on-the-snow introduction to backcountry patrolling.
 
 ## Training Resources
 
-- [Video Training](/tbspedia/Video_Training) - Training Videos for and about TBSP
-- [Avalanche Related Resources](/tbspedia/Avalanche_Related_Resources) - Links for our Avalanche course students.
+- [Video Training](Training_Videos.md) - Training Videos for and about TBSP
+- [Avalanche Related Resources](Avalanche_Related_Resources.md) - Links for our Avalanche course students.
 - OEC Training Resources
 
 ## Resources for the Backcountry
 
-- [Current conditions](/tbspedia/Current_conditions) - Links for up to date weather, traffic and avalanche information.
-- [Miscellaneous](/tbspedia/Miscellaneous) - Links for physical conditioning, tree-well immersion, etc.
-- [Simple GPS route to Peter Grubb Hut](/tbspedia/PGH_Route) - <http://wiki.tbsp.org/PGH_Route>
+- [Current conditions](Current_conditions.md) - Links for up to date weather, traffic and avalanche information.
+- [Simple GPS route to Peter Grubb Hut](PGH_Route.md) - GPS waypoints and GPX file for the Castle Peak trailhead to Peter Grubb Hut.
 
 ## Information for Patrollers
 
-- [Search And Rescue](/tbspedia/Search_And_Rescue) - Information and Signup Instructions for the Search and Rescue Team.
-- [Operations - things to fix](/tbspedia/Operations_-_things_to_fix) - Bulletin board for posting items needing attention, or volunteering to fix it!
-- [Senior Program](/tbspedia/Senior_Program) - Information on how and why to become a Senior Patroller in TBSP.
+- [Search And Rescue](Search_And_Rescue.md) - Information and Signup Instructions for the Search and Rescue Team.
+- [Senior Program](Senior_Program.md) - Information on how and why to become a Senior Patroller in TBSP.
 
-[List all available pages](/tbspedia/list_pages)
+[List all available pages](list_pages.md)

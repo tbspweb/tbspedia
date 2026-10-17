@@ -1,7 +1,5 @@
 # Recruiter
 
-[Officers](Category:)(Category: Officers.md)
-
 The recruiter is the lifeblood of the patrol. Recruiter responsibilities and timelines here:
 
 Also include: flyer locations, sale dates, tabling activities

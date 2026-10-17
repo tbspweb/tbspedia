@@ -16,4 +16,4 @@ Each year, TBSP renews its agreements with the Tahoe National Forest and the Hum
 
 The TBSP Volunteer Agreements can be found at [docs.tbsp.org](http://docs.tbsp.org) under "Documents and Forms".
 
-{{PatrolManual}}
+Back to the [Patrol Manual](Patrol_Manual.md).
