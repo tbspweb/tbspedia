@@ -3,7 +3,6 @@
 **DRAFT** (January 2015)
 
 
-# Hut Patrols
 TBSP is now partnering with the Sierra Club to do overnight patrols to popular huts along the Sierra Crest! If you're lucky enough to get one, here's what you need to know:
 
   1. The huts have a wood burning stove for heat and are stocked with firewood for the season. 

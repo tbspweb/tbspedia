@@ -4,7 +4,7 @@ title: TBSPedia - Home
 permalink: /
 ---
 
-# Main Page
+# TBSPedia
 
 Welcome to TBSPedia, the online resource for the Tahoe Backcountry Ski Patrol and all users of the Tahoe Backcountry!
 

@@ -1,6 +1,5 @@
 # Chapter 02: Patroller Responsibilities
 
-# Patroller Responsibilities
 ## Registration, dues and manual
 Each patroller or candidate must have paid all NSP dues, including patrol dues, in a timely manner. 
 Each candidate must read and be knowledgeable with this patrol manual; updates are
@@ -40,7 +39,7 @@ Candidates and patrollers are expected to provide appropriate skis or snowboard,
 ## Proficiency
 In order to qualify as a patroller, candidates must demonstrate proficiency in the skills listed in [Appendix E: Proficiency Requirements](Appendix_E__Proficiency_Requirements.md). It is hoped (but not required) that patrollers will continue to improve skills and knowledge by becoming senior or certified patrollers, OEC instructors, patrol instructors, mountaineering or avalanche instructors and patrol, section, region or division officers. 
 
-# Patrol Dues
+## Patrol Dues
 Annual patrol dues are used for administrative expenses. 
 All NSP dues are payable by a date assigned by the Patrol Director, typically in late September, but never later than October 1.
 
@@ -54,7 +53,7 @@ All NSP dues are payable by a date assigned by the Patrol Director, typically in
 
 Patrol candidates are responsible for the above dues, in addition to candidate fees which cover training expenses. 
 
-## Corporate Sponsors
+### Corporate Sponsors
 Our patrol relies on grants to provide funds for the purchase of expensive equipment such as tents, radios, avalanche transceivers, etc. Be familiar with the organizations which provide grant money. They are great friends of the patrol!
 
 Numerous manufacturers and retailers give special discounts to members of our patrol. Consider recommending and patronizing these companies, as they produce quality equipment and have gone out of their way to support our efforts. 
@@ -75,7 +74,7 @@ Numerous manufacturers and retailers give special discounts to members of our pa
     * REI Citrus Heights ($100 in merchandise)
     * REI Berkeley ($100 in merchandise)
 
-# Patroller Benefits
+## Patroller Benefits
 Patroller (and candidate) benefits include worker's compensation medical benefits provided by the Forest Service as part of our volunteer agreements. Such benefits are normally not available to NSP volunteers who patrol at Alpine resorts. Benefits also include membership in the National Ski Patrol, which includes the Patroller magazine, and ability to enroll in NSP course at membership rates. Patrollers who have paid dues for the current season and have fulfilled their eight-day patrolling commitment for the previous season are also eligible for pro-deal equipment discounts. 
 
 Candidates are eligible for pro-deal discounts after completion of their initial season provided they complete all of their candidate responsibilities, including all training and patrolling dates. Patrollers or candidates who choose to participate in search and rescue operations under the auspices of county sheriffs or other agencies affiliated with the California Office of Emergency Services (OES) are eligible for certain insurance benefits provided by OES. 

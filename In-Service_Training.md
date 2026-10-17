@@ -1,6 +1,5 @@
 # In-Service Training
 
-# In-Service Training
 For most of us, the On-Hill Refresher was not only a great refresher, but a chance to build a list in our heads of the skills we need a little more practice on.  Tt has always been our intent that patrol days are also training opportunities, and this year we want to make it a little more official and organized to make sure that we, as a patrol, use the many learning opportunities the winter provides to continue transferring our personal lists of “skills we need a little more practice on” into “skills we are competent in.”  
 
 The general recommendation is that 45 minutes to 1 hour of every Patrol day should be spent training or refreshing
@@ -12,7 +11,7 @@ In the future, you will notice that part of the email reminder telling you about
 ## Recording your training
 Your patrol report should mention the skills practiced in the "Coomments" section.  
 
-# List of Skills
+## List of Skills
 Here are some examples of skills to practice. Feel free to edit this wiki page and add things to this list!
 
   * Setting up the rope kits

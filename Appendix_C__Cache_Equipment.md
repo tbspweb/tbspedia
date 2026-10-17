@@ -1,9 +1,9 @@
 # Appendix C: Cache Equipment
 
-# Cache Contents
+## Cache Contents
 This section describes Fixed caches. See the [Modular Equipment](Appendix_B__Patrol_Equipment_Modules.md) page for information on Patrol-carried equipment.
 
-## TREE CACHE CONTENTS (Castle Pass and Round Valley)
+### Tree Cache Contents (Castle Pass and Round Valley)
 Inside lockbox:
   * Tree Cache Pack (Large orange pack)
     * Infection Control Pack
@@ -26,7 +26,7 @@ Outside lockbox:
     * Castle Pass: Cascade sled and tarp (stashed next to cache)
   * Ladder
 
-## CAR CACHE CONTENTS
+### Car Cache Contents
 To be left in car at trailheads without a cache.
   * Trauma Backpack
     * Infection Control Pack
@@ -37,10 +37,10 @@ To be left in car at trailheads without a cache.
     * Spare Clothing Module
   * Rope Rescue Modules (Main Line and Belay)
 
-# Cache Module Contents
+## Cache Module Contents
 The following modules are cached for patroller use.  
 
-## DIAGNOSTIC MODULE
+### Diagnostic Module
 (for diagnosing and treating emergency conditions)
   * 12 pairs of latex exam gloves (assorted sizes) in plastic bag
   * 2 fluidshield masks in plastic bag
@@ -56,13 +56,13 @@ The following modules are cached for patroller use.
   * 6 plastic bags in assorted sizes
   * 1 zippered case for contents
 
-## HEAVY TRAUMA MODULE
+### Heavy Trauma Module
 (for mid-shaft femur and major bleeding)
   * 2 battle dressings
   * 1 Kendrick Traction Device (KTD)
   * 1 stuff sack for contents
 
-## ROPE RESCUE (MAIN LINE) MODULE
+### Rope Rescue (Main Line) Module
 (aka z-pulley or Sled Control kit) (for raising or belaying loaded sleds).
   * 1 60 meter x 8mm static rope 
   * 1 Bearpaw (anchor) plate
@@ -78,7 +78,7 @@ The following modules are cached for patroller use.
   * 1 Prusik loop for haul pulley 
   * 1 rope bag for contents
 
-## ROPE RESCUE (BELAY LINE) MODULE
+### Rope Rescue (Belay Line) Module
 For lowering rescuers.
   * 1 60 meter x 8mm static rope 
   * 2 30' lengths of green 1" webbing 
@@ -89,7 +89,7 @@ For lowering rescuers.
   * 4 locking carabiners 
   * 1 rope bag for contents
 
-## STOVE MODULE
+### Stove Module
 (for extended patient care or sudden bad weather)
   * 1 pot with lid containing:
     * matches in waterproof container
@@ -102,7 +102,7 @@ For lowering rescuers.
   * 1 11 oz. bottle stove fuel
   * 1 stuff sack for contents
 
-## OXYGEN MODULE
+### Oxygen Module
   * 2 D-size oxygen cylinders (1 cylinder in Car Cache module)
   * 1 oxygen regulator
   * 1 disposable adult non-rebreather mask
@@ -111,7 +111,7 @@ For lowering rescuers.
   * spare O2 tubing
   * Valve wrench
 
-## SPARE CLOTHING MODULE
+### Spare Clothing Module
 We carry extra clothing to assist patients or ourselves in an emergency. Spare clothing is (1) in large sizes so as to
 fit all patients, (2) clean and (3) packed in plastic bags to keep it dry:
   * 1 wool or polypro watch cap or balaclava
@@ -123,7 +123,7 @@ fit all patients, (2) clean and (3) packed in plastic bags to keep it dry:
     * 8 AA batteries
     * 4 AAA batteries
 
-## BACKBOARD ACCESORIES MODULE
+### Backboard Accessories Module
   * 5 Spider-straps for restraint
   * 1 adjustable cervical collar
   * 1 V-VAC handle and spare cartridge (and carry bag)

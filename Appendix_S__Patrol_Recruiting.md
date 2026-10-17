@@ -1,6 +1,5 @@
 # Appendix S: Patrol Recruiting
 
-# Patrol Recruiting
 Tahoe Backcountry Ski Patrol is in search of eager candidates interested in join the patrol. 
 
 ## Ski Along With Us
@@ -34,7 +33,7 @@ Accompanying a backcountry ski patrol will require 6-10 miles of cross country a
 
 Please consult the Patrol Manual for a complete listing of required equipment, including required avalanche equipment, that you will be expected to bring: [Appendix A: Required Personal Equipment](Appendix_A__Required_Personal_Equipment.md).
 
-# Candidate Training
+## Candidate Training
 New members of TBSP pass through a candidate program before becoming members of the patrol. As part of this process, you will be certified in:
   * Outdoor Emergency Care
   * NSP Introduction to Ski Patrol

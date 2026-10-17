@@ -1,12 +1,11 @@
 # Chapter 03: Patrol Administration
 
-# Patrol Administration
 The Patrol Director, Assistant Patrol Director and members of the Board of Directors are elected pursuant to the patrol bylaws.
 Rotating positions are Mountain Manager and Team Leader. Mountain Managers serve on a particular weekend and are appointed by the APD - Operations. The Mountain Manager appoints team Leaders for a particular patrol day. All patrollers should have the opportunity to serve as both Mountain Manager and Team Leader each season.
 
 Current Patrol Officer assignments and contact information can be found on [http://beacon.tbsp.org](http://beacon.tbsp.org/officers).
 
-# Logistical Positions
+## Logistical Positions
 ### Mountain Manager
 This patroller oversees all patrol field operations on a particular weekend. 
 The Mountain Manager appoints Team Leaders and makes decisions regarding team assignments, equipment distribution among teams and weather-related patrolling decisions in consultation with team leaders, and is responsible for completing Mountain Manager's weekly report. 
@@ -17,7 +16,7 @@ Detailed description of the roles of the mountain manager can be found in the se
 A patroller designated by the Mountain Manager to be in charge of patrol activities at a particular location on a particular day. Team leaders make decisions regarding patient transportation, patrol routes, etc., and are responsible for completing Patrol Report.
 
 
-# Elected Positions
+## Elected Positions
 The elected positions are defined in the patrol bylaws.
 ### Board of Directors
 The Board of Directors has six members plus the Patrol Director. Board positions include the patrol treasurer/registrar and patrol secretary. Officers are appointed by the Patrol Director and approved by the Board of Directors. Elections for three of the six Board of Director positions are held in the spring of each year, and board members serve two-year terms.
@@ -26,7 +25,7 @@ The Board of Directors has six members plus the Patrol Director. Board positions
 The Patrol Director has overall responsibility for patrol organization and activities; appoints other patrol officers; decides operational policy in consultation with Board of Directors, other patrol officers and membership.
 The Patrol Director serves a two-year term, and is elected at the end of the season. 
 
-# Appointed Officers
+## Appointed Officers
 These positions are appointed by Patrol Director for one-year term-of-office.
 
 ### Assistant Patrol Director
@@ -72,7 +71,7 @@ Coordinates inter-patrol activities. Develops and supervises Boreal/TBSP patrol 
 ### Search & Rescue Team Leader
 Organizes and directs the [TBSP-SAR](Search_And_Rescue.md) Search and Rescue Team.
 
-# Special Projects
+## Special Projects
 From time to time the Patrol Director appoints special officers to work on specific tasks. These are some examples of special projects conducted by the patrol in the past.
 
 ### Banquet
@@ -90,7 +89,7 @@ Works with Patrol Director and Board of Directors to identify strategic funding 
 and identifies opportunities such as grants, community college program, donations, etc. This position
 may involve writing grant requests and/or solicitation of donations for patrol activities.
 
-# National Ski Patrol History and Administration
+## National Ski Patrol History and Administration
   1. The NSP was founded by Charles Minot "Minnie" Dole in 1938;
   1. NSP is specially chartered by the United States Congress, on a par with the American Red Cross, American Legion, etc.;
   1. NSP is a tax-exempt organization, and donations to our patrol are tax deductible;

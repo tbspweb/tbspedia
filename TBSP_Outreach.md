@@ -1,6 +1,6 @@
 # TBSP Outreach
 
-# Outline for TBSP Outreach Events
+## Outline for TBSP Outreach Events
 TBSP is partnering with the Tahoe Rim Trail Association and the Forest
 Service at Tahoe Meadows on select Saturdays in February and March to
 provide an overview of fun safe backcountry travel. It is typically a
@@ -20,20 +20,20 @@ web site:
 
 http://www.tahoerimtrail.org/index.php?option=com_content&view=article&id=257:winter-snowshoe-hikes&Itemid=226
 
-# Contact Information
+## Contact Information
 Contact the Outreach Officer at [outreach@tbsp.org](mailto:outreach@tbsp.org)
 for Forest Service contacts and cancelations.
 
 Snowshoe Hotline: 775-884-8103 (recorded info)
 
-# Introduction
-## Backcountry travel is fun!
+## Introduction
+### Backcountry travel is fun!
   * Find the best snow on skis or a snowboard
   * Enjoy the fresh mountain air on snowshoes
   * More and more people are heading to the backcountry
 
 
-## Backcountry travel can be safe too (outline)
+### Backcountry travel can be safe too (outline)
   * How to not get into trouble
     * Know what you are doing (that's why you're here!)
     * Plan a manageable trip and stick to the plan
@@ -49,8 +49,8 @@ Snowshoe Hotline: 775-884-8103 (recorded info)
 
 
 
-# How to not get into trouble
-## Know what you are doing
+## How to not get into trouble
+### Know what you are doing
   * Navigation skills
     * Read a map and recognize terrain features around you
     * Use a compass
@@ -62,7 +62,7 @@ Snowshoe Hotline: 775-884-8103 (recorded info)
   * Snow camping skills for overnight trips
 
 
-## Planning
+### Planning
   * Plan your trip in advance and follow your plan
   * Be prepared to change your plan as the conditions dictate
     * Set a turn-around time!
@@ -77,7 +77,7 @@ Snowshoe Hotline: 775-884-8103 (recorded info)
     * Follow through and don't forget to call
 
 
-## Watch the weather
+### Watch the weather
   * Check in advance
   * Carry NOAA radios on longer trips
   * Keep an eye on the sky
@@ -85,7 +85,7 @@ Snowshoe Hotline: 775-884-8103 (recorded info)
     * Watch the clouds
 
 
-## Travel rules
+### Travel rules
   * Stay together (travel at the pace of the slowest person)
   * Stop at intersections
   * Rest, eat and drink frequently
@@ -99,7 +99,7 @@ Snowshoe Hotline: 775-884-8103 (recorded info)
   * Get out before dark (turn-around time)
 
 
-## Carry the proper equipment
+### Carry the proper equipment
   * Day trip essentials
     * Sufficient warm clothing and storm gear - no cotton!
     * Hat with a brim, sunglasses and sun screen
@@ -124,7 +124,7 @@ Snowshoe Hotline: 775-884-8103 (recorded info)
       * Phone coverage can be variable
       * Cell phones are not a substitute for planning!
 
-# Avalanche safety
+## Avalanche safety
   * Take a level I course
   * Call the avalanche hotline ([www.sierraavalanchecenter.org](http://www.sierraavalanchecenter.org/), 530-587-2158)
   * Avalanche triangle
@@ -136,8 +136,8 @@ Snowshoe Hotline: 775-884-8103 (recorded info)
   * Carry the essential equipment (transceiver, shovel, probe)
 
 
-# What to do if you get into trouble
-## Survival tips
+## What to do if you get into trouble
+### Survival tips
   * If truly lost, S.T.O.P. (Sit, Think, Observe, Plan)
   * Stay put
     * Don't get more lost
@@ -157,7 +157,7 @@ Snowshoe Hotline: 775-884-8103 (recorded info)
   * Be positive!
 
 
-## What to do if someone in your party is hurt
+### What to do if someone in your party is hurt
   * Get word to rescuers
     * Cell phone or radio
     * Send someone for help
@@ -180,7 +180,7 @@ Snowshoe Hotline: 775-884-8103 (recorded info)
  Snow trench demonstration 
 
 
-# How to learn more
+## How to learn more
   * Go with experienced people
   * Take classes
     * REI

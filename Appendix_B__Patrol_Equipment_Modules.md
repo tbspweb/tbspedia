@@ -36,7 +36,7 @@ Patrol Equipment Modules should be assigned by predetermined roles for each patr
 The following equipment modules are provided by the patrol.
 Patrollers are required to divide up and carry the following modular units:
 
-### FORMS MODULE
+### Forms Module
   * 2 Patrol Reports (formerly Daily Operaations Log)
   * 1 Sno-Mo Closure map for area
   * 4 incident reports
@@ -44,14 +44,14 @@ Patrollers are required to divide up and carry the following modular units:
   * 1 ballpoint pen
   * 1 plastic envelope for contents
 
-### RADIO HARNESS CONTENTS
+### Radio Harness Contents
   * Radio Shortcut Card (Icom or Bendix-King)
   * List of cellphone numbers
   * Businsess Cards
   * NSP Avalanche Rescue Quick Guide
   * Plastic ziplock for above if carried in patrol vest
 
-### TRAUMA MODULE
+### Trauma Module
 For treating more serious injuries.
 
   * 1 paramedic shears
@@ -80,17 +80,17 @@ For treating more serious injuries.
   * 2 SAM splints
   * 1 zippered case for contents
 
-### AIRWAY MANAGEMENT MODULE
+### Airway Management Module
   * 1 set oral airways
   * Nasal or oral airways
   * Suction syringe
   * 1 disposable adult bag-valve mask (BVM)
 
-### TENT MODULE (for patient care)
+### Tent Module (for patient care)
   * 1 Megamid
   * 1 stuff sack for contents
 
-### REPAIR / FIRE / SIGNAL MODULE
+### Repair / Fire / Signal Module
 For repairing equipment in the field.
 
   * 1 2 oz. plastic bottle containing:
@@ -118,13 +118,13 @@ For repairing equipment in the field.
     * 1 stuff sack for contents
   * 1 zippered bag for contents
 
-### PORTABLE SLED MODULE (for patient transportation)
+### Portable Sled Module (for patient transportation)
   * 1 Brooks Range Emergency Sled with stuff sack, which contains:
     *  custom fitting tarp 
     *  two stretcher bars
     *  set of 5 ski straps
 
-## PATIENT ACCESS MODULE
+## Patient Access Module
 Rope for belaying a rescuer to provide first aid to patient in steep terrain. Planned for the 2010-2011 season.
   * 100 ft x 8mm static rope
   * Bag

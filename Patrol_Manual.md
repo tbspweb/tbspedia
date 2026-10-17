@@ -3,7 +3,7 @@ layout: default
 title: Patrol Manual
 ---
 
-# PATROL MANUAL
+# Patrol Manual
 
 This is the TBSPedia Online Patrol Manual for the Tahoe Backcountry Ski Patrol. The patrol manual is required reading for current and prospective patrollers. Some material is out of date, please help keep this manual updated!
 

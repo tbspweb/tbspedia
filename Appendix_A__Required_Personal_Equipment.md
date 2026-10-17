@@ -50,10 +50,10 @@ Use jacket, bibs, poncho, etc. for layering and weatherproofing yourself. These 
   1. Pants permitting maximum range of leg motion
   1. Sufficient number of layers to permit comfort in all environmental conditions
 
-# Required Equipment for Patrollers and Candidates
+## Required Equipment for Patrollers and Candidates
 This section describes required equipment for Patrollers and Candidates. MTR and Avalanche course students, guests and Ski Alongs do not need to carry this equipment.
 
-## Individual First Aid Kit
+### Individual First Aid Kit
 Because much of the first-aid equipment we carry is contained in the Trauma Module described in [modular equipment](Appendix_B__Patrol_Equipment_Modules.md), the individual patroller's first aid kit is limited to the following, which should be contained in a small organized kit such as those obtainable from Outdoor Research or Adventure Medical:
   * 1 CPR mask
   * 1 space blanket
@@ -71,12 +71,12 @@ Because much of the first-aid equipment we carry is contained in the Trauma Modu
   * several small plastic bags
   * 1 zippered case for contents.
 
-## Survival: Tarp
+### Survival: Tarp
 A small tarp with grommets for keeping patients warm and dry. Included in MTR course fees. Available for purchase from NSP.
 
 Example: <https://www.rei.com/product/407106/space-all-weather-blanket>
 
-## Personal Sled Hauling and Rope Rescue Kit
+### Personal Sled Hauling and Rope Rescue Kit
 Equipment for pulling the portable sled and running the rope kit. The patrol offers this item at wholesale cost.
 
   * 20feet of 1" tubular webbing
@@ -85,8 +85,8 @@ Equipment for pulling the portable sled and running the rope kit. The patrol off
   * 18" Prusik loop (6mm acc. cord)
   * small stuff sack for above items
 
-## Required Equipment for Candidate Training and Patrol Refreshers
-### Splint
+### Required Equipment for Candidate Training and Patrol Refreshers
+#### Splint
 One SAM splint for OEC training. SAM splints for patient use are found in the Trauma Module (part of [modular equipment](Appendix_B__Patrol_Equipment_Modules.md)).
 
 

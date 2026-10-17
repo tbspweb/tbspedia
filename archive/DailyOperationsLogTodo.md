@@ -1,4 +1,4 @@
-# DailyOperationsLogTodo
+# Daily Operations Log To-Do
 
 
   1. Print roster and schedule for carrying in cars and binder in the shed *immediate*
@@ -16,7 +16,7 @@
 BEFORE THE PATROL WEEKEND
 
 
-# D.O.L. PROCESSING:
+## D.O.L. Processing
   1. before patrol, print with names scheduled (i'd call this low priority)
   1. take paper copy on patrol. 
      1. record personal equipment
